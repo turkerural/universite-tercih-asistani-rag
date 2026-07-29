@@ -1,0 +1,13 @@
+Havacılık ve uzay mühendisliği, insanlı ve insansız hava ve uzay araçlarının geliştirilmesiyle ilgili bir mühendislik dalıdır. Havacılık mühendisliği ve uzay mühendisliği olarak örtüşen iki dalı bulunur. Aviyonik mühendisliği benzerdir, ancak havacılık mühendisliğinin elektronik sistemleri kısmını kapsar.
+"Havacılık mühendisliği", bu alan için önceden kullanılan bir terimdi. Uçuş teknolojileri, uzayda faaliyet gösteren araçları da içerecek şekilde geliştikçe daha geniş olan "havacılık ve uzay mühendisliği" terimi kullanılmaya başlandı.
+Uçuş taşıtları, araç bileşenlerine uygulanan yapısal yükler ile atmosfer basıncı ve sıcaklıktaki değişikliklerin neden olduğu zorlu koşullara maruz kalmaktadır. Bundan dolayı hava ve uzay taşıtları; aerodinamik, tahrik, aviyonik, malzeme bilimi, yapı statiği ve imalat gibi çok çeşitli teknolojilerin ve mühendislik alanlarının katkılarıyla üretilebilmektedir. Bu teknolojiler arasındaki etkileşim, havacılık ve uzay mühendisliği olarak bilinir. Havacılık ve uzay mühendisliği, ilgili disiplinlerin karmaşıklığı ve artan sayısı nedeniyle her biri kendi uzmanlık alanına sahip mühendis ekipleri tarafından yürütülür.
+
+Ayrıca bakınız
+Makine mühendisliği
+Astronotik
+Havacılık ve uzay
+Uzay mühendisliği
+Uçak mühendisliği
+
+
+== Kaynakça ==

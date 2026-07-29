@@ -1,0 +1,32 @@
+Bilgisayar mühendisliği, bilgisayar sistemlerinin tasarımı, geliştirilmesi, analizi ve uygulanmasıyla ilgilenen mühendislik dalıdır.
+Bilgisayar mühendisleri, programlama dilleri, yazılım tasarımı ve yazılım - donanım tümleştirmesi eğitimi alırlar. Yazılımların neyi yapabileceği neyi yapamayacağı (bk. Hesaplanabilirlik), yazılımların belirli bir görev üzerinde nasıl etkili bir verim gösterebilecekleri (bk. algoritma ve karmaşıklık), yazılımların saklanmış bir veriyi nasıl yazıp okuyabilecekleri (bk. veri yapıları ve veritabanları), yazılımların nasıl daha akıllı çalışabilecekleri (bk. Yapay zekâ), insan ve yazılımların birbirleriyle nasıl bir iletişim içerisinde olacakları (bk. insan bilgisayar etkileşimi ve kullanıcı arayüzleri) konuları üzerinde ve ASIC, FPGA, devre tasarımı ile donanım-yazılım entegrasyonu alanlarında çalışırlar.
+
+Eğitimi
+Bilgisayar mühendisliği eğitimi süresi ülkeden ülkeye farklılık göstermekle birlikte 3 ila 4 yıl arasında değişir.
+Bilgisayar mühendisliği eğitimi; matematik, fizik, programlama, algoritmalar, veri yapıları, veritabanı yönetimi, bilgisayar ağları, işletim sistemleri ve yazılım mühendisliği gibi konuları kapsar. Bu disiplinler, teorik bilgi ve uygulamalı becerilerin kazanılmasına yönelik olarak sunulmaktadır.
+Bilgisayar mühendisliği bölümü, bilgisayar donanımı ve yazılımı alanlarında çalışma imkânı sağlar. Mezunlar, donanım tasarımı, yapay zekâ, siber güvenlik, veri bilimi ve bilgisayar ağları gibi alanlarda uzmanlaşabilir.
+
+Tarihçe
+Dünyada bilgisayar mühendisliğinin geçmişi
+Bilgisayar Mühendisliği dalının doğuşu ve ilgili çalışmalar 20. yüzyılın çok öncelerine gitse de çağdaş makineler ve çağdaş bilgisayar mühendisliği 20. yüzyılda gelişmiştir. 1920'lerden itibaren bu alanda gelişmeler gösterildi. Özellikle Alan Turing bu dalın kurucularından sayılır.
+Amerika Birleşik Devletleri'ndeki ilk bilgisayar mühendisliği lisans programı 1971'de Cleveland, Ohio'daki Case Western Reserve Üniversitesinde kuruldu.
+
+Türkiye'de bilgisayar mühendisliğinin geçmişi
+Türkiye'deki bilgisayar mühendisliğinin kuruluşunun temelinde Elektronik Hesap Merkezleri yatmaktadır. Türkiye'de bir üniversitede ilk kez bilgisayar İstanbul Teknik Üniversitesinde kullanılmaya başlanmıştır. Hacettepe Enformatik Enstitüsü ve Orta Doğu Teknik Üniversitesi Elektronik Hesap Bilimleri bölümleri kurulduktan sonra üniversitelerindeki bilgisayar mühendisliği bölümlerinin çekirdeğini oluşturmuştur. 1977 yılında Hacettepe ve Orta Doğu Teknik Üniversitesi ilk kez lisans düzeyinde bilgisayar mühendisliği eğitimine başlamıştır. İTÜ'de 1980 yılında Elektrik Elektronik Fakültesi bünyesinde, Ege ve Yıldız Teknik Üniversitelerinde 1982 yılında Mühendislik Fakültesi'nde bilgisayar mühendisliği eğitimi başlamıştır. 12 Nisan 1993 tarihinde Orta Doğu Teknik Üniversitesinde ilk kez internetin kullanılmaya başlanmasıyla bu bölüme olan ilgi de artmıştır. 2022 yılı itibarıyla 163 üniversitede bilgisayar mühendisliği eğitimi verilmektedir. Türkiye'de her yıl 5 binin üzerinde öğrenci bilgisayar mühendisliği programlarından mezun olmaktadır.
+
+Alanları
+IEEE ve ACM birlikte Curriculum Guidelines for Undergraduate Degree Programs in Computer Engineering'de bilgisayar mühendisliğinin çekirdek bilgi alanlarını şöyle tanımlar:
+
+İlgili dallar
+Bilgisayar mühendisliği, elektronik, haberleşme, yazılım, kontrol, elektrik mühendisliği, bilgisayar bilimi ve matematik ile yakından ilgilidir.
+
+Ayrıca bakınız
+Mühendislik
+Kontrol mühendisliği
+Elektronik mühendisliği
+Yazılım mühendisliği
+Bilgisayar bilimi ve mühendisliği
+Turing Ödülü
+
+
+== Kaynakça ==

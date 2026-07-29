@@ -1,0 +1,133 @@
+Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği; elektrik, elektronik ve elektromanyetizma üzerine çalışan ve bunları kullanarak çeşitli donanım ve sistemlerin tasarımı ve geliştirilmesi ile ilgilenen kapsamlı bir mühendislik disiplinidir. 19. yüzyıldan itibaren telefon, telgraf, elektrik enerjisisinin üretimi, dağıtımı ve geniş ölçekte kullanımıyla birlikte ayrı bir disiplin olarak ortaya çıkmıştır. 20. yüzyılda yarı iletken teknolojisinin gelişimi, 
+transistörün icadı, mikroişlemcilerin ve bilgisayarların gelişimi ile daha kapsamlı bir disiplin haline gelmiştir.
+"Elektrik Mühendisliği" elektrik, elektronik ve elektromanyetizma ile ilgili tüm mühendislik disiplinlerinin bir çatı adı olarak kullanılmaktadır. Bunun yanı sıra "Elektrik Mühendisliği" yerine "Elektrik-Elektronik Mühendisliği" ismi de akademide yaygın olarak tercih edilmektedir. Ayrıca Türkiye'de, Elektrik-Elektronik Mühendisliğinin bir dalı olan power engineering (güç mühendisliği) "Elektrik Mühendisliğinin" karşılığı olarak geçer. Bunun için Türkiye'de Elektrik Mühendisliği maddesine bakabilirsiniz.
+
+Tarihi
+Elektrik ve mıknatıs (magnet)sözcüklerinin kökeni eski Yunancadan gelmektedir.Eski Yunan döneminde Milet'te (Anadolu, Aydın civarında eski yerleşim yeri) yaşayan Thales (MÖ 624-MÖ 546) doğayla ilgili araştırmalar yaparken kehribarın yünle ovulduğunda tüy ve saman gibi hafif maddeleri kendine çektiğini, uzun süreli ovmalarda ise insan vücuduna yaklaştırıldığında küçük kıvılcımlar çıkardığını fark edip bazı araştırmalarda bulunmuştu. Elektriğin bilim dünyasında bir araştırma alanı olarak yer alması 17. yüzyılda gerçekleşmiştir. İlk elektrik mühendisi olarak ilk elektroskobu icat eden William Gilbert kabul edilebilir.
+
+18. Yüzyıl
+Elektrik ve manyetizma üzerine araştırmalar ve ilk mühendislik çalışmalarına başlanması 18. yüzyıldan itibaren mümkün olmuştur.
+1672: Otto von Guericke (1602 – 1686), Kükürt bir küreyi döndüren bir aygıt yaptı. Yün parçasını dönen küreye tutarak bir kıvılcım üretti. Bu aygıt, sürtünme yoluyla elektrik üreten ilk üreteçtir.
+
+1729: İngiliz Stephen Gray, metallerin iletken, ametallerin yalıtkan olduğunu keşfetti.
+1745: Hollandalı Peter Van Musschenbroek elektrik depo edebilen, su dolu cam kavanoza batırılmış metal çubuktan ibaret Leyden Şişesi'ni yaptı ki bu tarihin ilk sığacıdır. (kondansatör).
+1752: Benjamin Franklin gök gürültülü havada bir uçurtma uçurarak ipek bir ip ile yüklü buluttan Leyden şişesini doldurmayı başardı. Böylece şimşek ile elektrik arasında bağıntı kurdu. Bu deney yıldırımsavarın(paratoner) bulunmasına yol gösterdi.
+1777: Fransız fizikçi Charles Augustin de Coulomb, yüklü iki metal küre ya da iki mıknatıs kutbu arasındaki itme veya çekme kuvvetini ölçebilen burulmalı tartı aygıtını gerçekleştirdi;
+1785: Coulomb bulduğu tartı aygıtını kullanarak iki yük arasındaki itme veya çekme kuvvetinin, yüklerin çarpımı ile doğru, aradaki uzaklığın karesi ile ters orantılı olduğunu deneysel olarak gösterdi.Coulomb yasası, Newton'un kütleçekimi yasasının elektrikteki karşılığıdır (Kütleçekim yasasından farklı olarak elektrikte iki yük arasında itme kuvvetinin varlığı da söz konusudur).
+1794: İtalyan fizikçi Alessandro Volta, çinko ve gümüş plakalar arasına tuz karışımlı sıvı koyarak elektrik akımı elde etmiş oldu. Burada çinko ve gümüş elektrotlar, tuzlu su elektrolittir ve aralarındaki kimyasal tepkime sonucu elektrik üretiliyordu. Bundan önceki insan yapımı tüm elektrik kaynakları statik idi.
+
+19. Yüzyıl
+AC-DC savaşlarına da sahne olan(Tesla-Edison mücadelesi) 19. yüzyıl, elektriğin altın çağıdır.
+
+1819: Fransız matematikçi ve fizikçi André Marie Ampére, Oersted in olgusunu betimleyen ve Ampère Yasası olarak adlandırılan magnetik alan ile bu alanı doğuran elektrik akımı arasındaki bağıntıyı formüle etti. Elektrodinamiğin de kurucusu olan Ampére aynı zamanda elektrik ölçme tekniklerini de geliştirerek elektrik akımını ölçen bir aygıt yaptı. Anısına elektrik akımı birimi amperdir.
+1827: Alman fizikçi Georg Simon Ohm, İletkenlerden geçen elektrik akımına ilişkin çalışmalar yaparak Ohm yasası olarak bilinen, bir iletkenden geçen akımın iletkenin uçları arasındaki gerilim ile doğru, iletkenin direnciyle ters orantılı olduğunu formüle etti, Anısına elektrikte direnç birimi ohm dur.
+1831: İngiliz fizikçi ve kimyager Michael Faraday, Bir buhar makinesi ile bakır bir plakayı bir mıknatısın yarattığı manyetik alan içinde döndürerek elektrik üretti. Bu ilk jeneratördür.
+
+1831: Joseph Henry, Faraday'ın buluşunu tersine çevirerek, manyetik alandan elektrik akımı geçirmek suretiyle bir bakır çemberi döndürmeyi başardı. Bu bir elektrik motorudur ve tarihte ilk kez, elektrik enerjisi makinelere güç vererek iş yapılmasını sağlıyordu.
+1833: Alman fizikçi Wilhelm Weber  ve Karl Friedrich Gauss  İki bina arsındaki ilk telgraf işlemini başardılar. Elektrik ölçüm için ilk uyumlu ünit sistemlerini buldular. Gauss jeomanyetik alanın yönü ve kuvvetini kaydetmek için Avrupa gözlem ağı organize etti.
+1834: Alman fizikçi Heinrich Lenz: "Akan bir elektrik akımına ters yönde bir direnç vardır." Kuramı onundur ki Lenz yasası olarak bilinir.
+1845: Alman fizikçi Gustav Robert Kirchhoff  Devre analizi olan “Bir noktaya giren ve çıkan akımların toplamı sıfırdır. Kirchhoff I”, “kapalı bir devrede harcanan gerilimlerin toplamı, sağlanan gerilimlerin toplamına eşittir. Kirchhoff II” yasalarını yayınladı.
+1864: İskoçyalı matematikçi ve fizikçi James Clerk Maxwell  Kuantum fiziği öncesi bilinen bütün elektrik ve manyetik kuramları açıkladı. Maxwell denklemleri olarak bilinen dört temel denklem onun tarafından ortaya atılmıştır.
+1876: Amerikalı Alexander Graham Bell elektrik titreşimlerini sese dönüştürerek telefonu buldu ve patentini aldı.
+1877: Amerikalı Thomas Alva Edison  sesi kaybedip yineleyebilen gramofonu (fonograf) geliştirdi.
+1879: Edison karbon flamanlı akkor ampul için patent başvurusu yaptı. Üç yıl sonra New York sokaklarında bu lambalar ışıyordu. Edison yaşamı boyunca gerçekleştirdiği hareketli resim kamerası, teyp, projektör gibi çeşitli buluşları için 1093 patent almıştır.
+1882: Dünyanın ilk merkezi güç üretim tesisi doğru akım(DC) güç sistemli The Pearl Street Station New York'ta Thomas Edison tarafından açıldı.
+1882: Wisconsin'de ilk hidroelektrik santral açıldı.
+1883: Nikola Tesla, Tesla bobinini buldu. Bu, elektriğin gerilimini dönüştürebilecek ve uzak mesafelere iletmeyi kolaylaştıracak bir transformatör olup Tesla'nın alternatif akım projesinin önemli bir ayağıdır.
+
+1887: Sırp asıllı mucit, fizikçi ve elektrik mühendisi Nikola Tesla (1856- 1943 Alternatif akım jeneratörünü buldu. Böylece elektrik enerjisi uzun mesafelere kolaylıkla iletilebilecekti.
+1888: Heinrich Hertz  Yıllar önce Faraday ve Maxwell tarafından bahsedilmiş radyo dalgalarını keşfetti ve ölçtü.
+1892: İtalyan fizikçi Guglielmo Marconi, sinyalleri birkaç km uzağa ulaştırarak' telsiz telgraf patentini aldı. Daha sonra ilk kıtalararası radyo sinyalini göndermeyi başardı. 1901'de, İngiltere Cornwall'dan gönderilen sinyaller, Kanada'dan alındı. Bu olaydan sonra birçok yerde telsiz telgraf istasyonları kurulmaya başlandı."Bilinenin aksine "Radyo", Marconi'nin icadı değildir. Amerikan Yüksek Mahkemesi, ölümünün ardından Radyonun mucidinin Nikola Tesla olduğuna hükmetmiştir.
+1895: Alternatif akım üreten ilk jeneratör Niagara şelalesine kuruldu.
+1897: İngiliz fizikçi Sir Joseph John Thomson, elektronu keşfetti.
+1897: Nikola Tesla, iki patent başvurusunda bulundu; 'Elektriksel Enerjinin İletimi İçin Bir Sistem' ve 'Elektriksel Enerjinin İletimi İçin Bir Cihaz' Böylece resmen "Radyo" doğmuş oldu. Birkaç yıl önce Hertz tarafından bulunan ve ölçümlenebilen radyo dalgaları, Tesla ile hayat buldu ve insanlığın hizmetine girdi.
+
+20. yüzyıl
+20. yüzyılın ikinci yarısında elektronik, iletişim ve bilgisayar teknolojisindeki gelişmeler günümüzdeki bilişim çağını başlatmıştır.
+
+1923: Rus asıllı Amerikalı elektrik mühendisi Vladimir Kosma Zworykin' ilk kez resim tarama yöntemini tümüyle elektronik olarak yapan ikonoskopu buldu. Ertesi yıl da kineskop olarak adlandırılan resim tüpünün patentlerini aldı. Bu iki buluş, ilk televizyon sisteminin oluşturulmasına temel oluşturdu. 1950'li yıllarda televizyon artık izlenilmeye başlanmıştı.
+1930: Amerikalı elektrik mühendisi Vannevar Bush (1890 - 1974)'un yönetiminde Cambridge'de Massachusetts Teknoloji Enstitüsü (MIT)'nde ilk bilgisayar yapıldı.
+1942: İlk elektronik bilgisayarın yapımına başlandı ve aygıtın yapımı 1945 yılında tamamlandı.
+1947: John Bardeen, Walter Houser Brittain ve William Bradford Shockley ABD'deki Bell Laboratuvarları'nda transistörü buldular. Elektrik sinyallerinin yükseltilmesini, denetlenmesini ya da üretilmesini sağlayan bu yarı iletken aygıt nedeniyle Bulucular 1956 Nobel Fizik Ödülü'nü paylaşmışlardır. Elektron lambalarının bütün işlevlerini çok daha küçük boyutlu ve hafif, mekanik etkilere karşı daha dayanıklı, ömrü daha uzun, verimi daha yüksek, ısı kayıpları daha düşük ve harcadığı güç de çok daha az olarak yerine getirebilen transistörler elektronik alanında bir devrim olarak kabul edilir.
+1964: Uluslararası uydularla telekomünikasyon örgütü Intelsat kuruldu. Bu tarihten sonra ilk uydusunu fırlatan Intelsat böylece 240 komünikasyon devresi ve 1 televizyon kanalının gereksinimini karşılayabiliyordu.
+1965: ABD Savunma Bakanlığı ARPANET(Advanced Research Projects Agency) projesini başlattı. 1965 yılında MIT Lincoln Laboratuvarlarında ilk kez iki bilgisayar birbirine bağlanmış ve karşılıklı veri alışverişinde bulunmuşlardı.ARPANET projesi kapsamındaysa dört üniversitenin bilgisayarları, araştırma, eğitim ve hükûmet uygulamalarını yürütmek için birbirine bağlandı. Hükûmet bu projeye başlarken olası bir düşman saldırısı ardından iletişimin kesilmesi durumunda klasik iletişim yollarına alternatif olacağı düşüncesini taşıyordu. Bu proje günümüzde kullanılan internetin başlangıcı niteliğindeydi.
+1972: İlk Mikroişlemci (Intel 4004) yapıldı. Bu, üzerine 2300 transistör yerleştirilmiş 7 mm x 7 mm boyutlarında, kare biçiminde silisyum bir plaktı. 4 bit değerinde kelime işleme gücü vardı.
+1973: İlk mikrobilgisayar üretildi. Önceki bilgisayarlara göre daha küçük olduğu, tek bir kullanıcıya hizmet verdiği için bu bilgisayarlara mikrobilgisayar adı verilmişti. Fransız R2E şirketi tarafından piyasaya sürülen bu mikrobilgisayarın adı Micral'di.
+1973: İlk cep telefonu Martin Cooper tarafından yapıldı.
+1981: IBM (Personal Computer) kişisel bilgisayarlar piyasada.
+1984: Apple'ın kişisel bilgisayarı Macintosh piyasada.
+
+Alt dallar
+Güç elektroniği
+Elektronik
+Güç mühendisliği (power engineering)
+Güç sistemleri
+Elektromagnetik
+Mikroelektronik
+Kontrol
+RF Mikrodalga
+Sinyal işleme
+Telekomünikasyon (Haberleşme)
+Biyomedikal
+
+İlişkili dallar
+Bilgisayar
+Robotik
+Mekatronik
+MEMS
+Fotonik
+
+Eğitimi
+Türkiye'de, üniversiteye geçiş sınavı ile Elektrik-Elektronik Mühendisliği bölümü kazanılarak 4 yıllık lisans eğitimi(yabancı dil hazırlık hariç) görülür. 4.sınıfta seçtiği altdala göre daha detaylı eğitim alır. Farklı bir alt dalı yüksek lisansta da seçerek uzmanlaşabilir.
+Elektrik-elektronik Mühendisliği dışında elektrik mühendisliği, elektronik ve haberleşme mühendisliği, kontrol mühendisliği, biyomedikal mühendisliği gibi bölümler de vardır. Bu bölümlerde elektrik-elektronik mühendisliğinden farklı olarak opsiyon (alt dal) seçimleri sınırlıdır. Alt dallar ayrı bölüm olarak açıldığında daha detaylı ve alana yönelik bir eğitim alınır ancak iş alanları daraltılmış olur.
+
+Elektrik Mühendisliği ile ilgili isim farklılıkları
+Türkiye'de "Elektrik-Elektronik mühendisliği" olarak geçen lisans programı yurt dışında çoğunlukla "Elektrik mühendisliği" ya da "Elektrik mühendisliği ve bilgisayar bilimleri" olarak geçer yani bilgisayar mühendisliği de bu programa dahildir. Bunun yanında diğer bazı ülkelerde de elektrik-elektronik mühendisliği ismi kullanılır ve alt dallar ayrı bölüm olarak bulunmaktadır.
+
+Yüksek Akım imza yetkisi
+Elektrik Mühendisleri Odası'nın belirlediği kriterlere göre Elektrik-Elektronik mühendislerinin yüksek akım imza yetkisine sahip olması için transkriptinde (ders planı) "elektrik makineleri", " iletim sistemleri", " dağıtım sistemleri", " güç sistemleri", " enerji sistemleri", " elektrik tesisleri", " koruma", "yüksek gerilim tekniği" gibi dersler olması gerekir. Yüksek akım, elektrik(güç) mühendisliği'nin uğraş alanıdır.
+
+Elektrik-Elektronik Mühendisinin Çalışma Alanları
+Elektrik üzerine serbest mühendis olarak kendi "mühendislik firması"nı açabilir (SMM), elektrik proje, elektrik tesisatı taahhüt, uygulama, danışmanlık, tesislerin elektriksel raporlamaları(Yüksek gerilim işletme sorumluluğu, elektrik tesisat denetim raporları) vb. işlerini yapabilir, yapı sınıfı ve metrekareye göre elektrik proje fiyatlarını Elektrik Mühendisleri Odası(EMO)'un sitesinden yıllık açıklanan En Az ücretler kitabından hesaplayabilirsiniz.
+Dünyaca büyük elektrik malzemesi üreticisi ya da elektronik teknoloji firmalarında en az 500'den fazla mühendisin bir arada çalıştığı Araştırma ve Geliştirme Merkezlerinde "arge mühendisi" olarak,
+ALES sınavına girip kazandıktan sonra istediği üniversiteye Tezli Yüksek lisans başvurusu yapıp Yüksek mühendis olabilir. Tezli Yüksek Lisansı bitirdiği zaman üniversitede akademisyen olmak isterse ALES sınavına girip herhangi bir üniversitede hocalarıyla yapılan mülakat, sınav sonucu üniversiteye kabul edildiği takdirde, üniversitede Öğretim yardımcısı olarak yardımcı üniversite hocalığına başlayabilir, bu süreçte Doktora yaparak eğitimlerine devam ederse Öğretim üyesi olup, Profesörlüğe kadar yükselebilir.
+Tek başına Elektrik-Elektronik Mühendisinin "yapı denetim" firması kurma yetkisi vardır (gerekli sayıdaki teknik personeli çalışan olarak belgelemesi şartları vardır). Yapı Denetim Uygulama Yönetmeliği Madde 10
+SMM yetki belgeli Elektrik-Elektronik Mühendisi ikamet ettiği şehirde, yapıların inşaatları için "mühendis şantiye şefi" işi olarak, yönetmeliğe göre aynı anda  yapı inşaatı 1500m2ye kadar 4adet iş alabilir, yapı inşaatı 4500m2ye kadar 3 adet iş alabilir, yapı inşaatı 7500m2 ye kadar 2 adet iş alabilir, yapı inşaatı 7500m2den büyükse 1 adet inşaat için " mühendis şantiye şefi" sözleşmesi yapabilir. Örneğin bir yıllık sözleşme yaparak her inşaat başına, mühendis şantiye şefi sözleşmesi için peşin 1yıllık minumum 12x asgari ücret kadar TL ücret alır. Yapı büyüklüğü m² artışına göre ücret artar. Kısa süreli 200m2den büyük ufak birkaç katlı ev yapıları işlerinde aylık 1 asgari ücret TL gibi ücret alınır. (Kanunlara göre Elektrik-Elektronik Mühendisi devlette çalışıyorsa veya bir firma, tesiste SGK lı mühendis olarak çalışıyorsa veya Yapı Denetim firmasının sahibi ise şantiye şefliği sözleşmesi hizmeti yapamaz),
+Elektrik mühendisliği taahhüt firmalarında "proje mühendisi", "şantiye mühendisi" olarak çalışabilir,
+200m2 den ufak yapılarda Yapı Denetim yerine yapıların inşaatında "Teknik Uygulama Sorumlusu(TUS)" olarak mühendisin kontrol etmesi zorunludur. Elektrik-Elektronik mühendisi, Elektrik TUS, fenni mesuliyet işini üstlenerek yapabilir, bir elektrik-elektronik mühendisi TUS için Eski tarihi binaların restorasyon işleri için 120.000m2 inşaat sınırı vardır, Fenni mesuliyet Madde 68. de 200m2 altı yapılarda  Elektrik projesi TUS onayı ve TUS bildirme dilekçesi sorumluğu için 1yıllık minumum 6x asgari ücret kadar ücret alır. Tarihi büyük binalarda yüksek m² lerde tadilat işlerinde kontrol denetim için TUS mühendisi görevlendirilir.
+İlgili mühendislik firmasında "proje mühendisi" olarak,
+Firma ve fabrikalarda herhangi bir birimde "yönetici" olarak,
+Tesislerde makine enerjiden sorumlu, teknik müdür ya da "makine enerji müdürü" mühendisi olarak,
+Banka gibi kuruluşlarda "yönetici" olarak,
+Sahada ekip yönetimi için "saha mühendisi" olarak,
+İlgili iş konusunda "tasarım mühendisi" olarak,
+Firmalarda "yazılım mühendisi" olarak,
+Kurulum, onarım, bakımda ekip yönetimi için "bakım mühendisi" olarak,
+Elektrik enerjisi dağıtım şirketlerinde, arıza ekipleri yönetimi için "koordinatör mühendis" olarak,
+İşletme kaynak planlaması için "planlama mühendisi" olarak,
+Fabrikalardan hammadde, malzeme tedarik için "satınalma mühendisi" olarak,
+Üretimi yapılan bir ürün ya da parçasını, firma ve fabrikalara pazarlamak için "satış mühendisi" olarak,
+Yapı denetim firması açma yetkisine sahiptir, Madde 10. Yapı denetimler 200m2 den büyük yapıların denetlenmesine bakar. 200m2 altındaki yapılara Teknik Uygulama Sorumlusu (TUS) Mühendis bakar denetler.
+Yapı denetim firmasında"elektrik mühendisi uygulama ve proje denetçisi" olarak, yetki sınırı yıllık 120.000m2 dir,
+Yapı denetim firmasında "elektrik mühendisi kontrol elemanı" olarak, yetki sınırı yıllık 120.000m2 dir,
+Devlette kamu personeli seçme sınavı KPSS ile "elektrik mühendisliği" kadrolarında,
+Yapı proje ofisi açabilir, bunun için yapı projesinde imza yetkisi olan mühendislerle ortak şirket açmalıdır. Bir yapının projesinde imza yetkileri olan aşağıda yazılı olan 7 mühendis vardır;
+-Harita aplikasyon, Harita mühendisi
+-Zemin Etüdü, Jeoloji mühendisi ile Jeofizik mühendisi birlikte onaylaması gerekir
+-Mimari proje, Mimar
+-Elektrik projeleri, Elektrik-elektronik mühendisi
+-Mekanik projeler, Makine mühendisi
+-Statik proje, inşaat mühendisi
+gibi alanlarda görev yapabilirler.
+
+Ayrıca bakınız
+Mühendislik dalları listesi
+Elektrik mühendisliği tarihi
+Türkiye'de elektrik mühendisliği
+Elektronik mühendisliği
+Telekomünikasyon mühendisliği
+Kontrol mühendisliği
+IEEE
+
+
+== Kaynakça ==

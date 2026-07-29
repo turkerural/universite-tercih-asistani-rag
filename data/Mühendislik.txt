@@ -1,0 +1,69 @@
+Mühendislik, köprüler, tüneller, yollar, araçlar ve binalar dahil olmak üzere makineler, yapılar ve diğer öğeleri tasarlamak ve inşa etmek için bilimsel ilkelerin kullanılmasıdır. Mühendislik disiplini, her biri uygulamalı matematik, uygulamalı bilim ve uygulama türlerinin belirli alanlarına özel vurgu yapan, geniş bir yelpazede uzmanlaşmış mühendislik alanları’nı kapsar.
+Modern anlamda mühendis, bilim insanlarının ürettiği teorik bilgiyi teknisyen ve ustaların uygulayabileceği pratik bilgiye dönüştüren kişidir. Demir yolları inşaat mühendisi Arthur Mellen Wellington'a göre mühendislik, "Beceriksiz birinin iki dolara kötü yaptığı bir şeyi bir dolara iyi yapma sanatıdır.".
+
+Tanım
+Amerikan Mühendislerinin Mesleki Gelişim Konseyi (ECPD, ABET)'in öncülü) "mühendisliği" şu şekilde tanımlamıştır:
+
+Yapıları, makineleri, aparatları veya imalat süreçlerini veya bunları tek tek veya birlikte kullanan işleri tasarlamak veya geliştirmek; veya tasarımlarını tam olarak bilerek inşa etmek veya işletmek; veya belirli çalışma koşulları altında davranışlarını tahmin etmek; bunların tümünü amaçlanan işleve, işletme ekonomisine, can ve mal güvenliğine saygı duyarak tasarlamak için bilimsel ilkelerin yaratıcı uygulamasıdır.
+
+Etimoloji
+Mühendis kelimesi Arapça geometri (hendese) ile meşgul olan, geometri bilen kişi anlamına gelmektedir. 
+Mühendis Türk Dil Kurumuna göre şöyle tanımlanmaktadır: İnsanların her türlü ihtiyacını karşılamaya dayalı çeşitli yapılar yol, köprü, bina, peyzaj, çevre gibi şehircilik ve imar dışı alanların ilkeleri, bayındırlık; tarım, beslenme gibi gıda; fizik, kimya, biyoloji, elektrik, elektronik gibi fen; uçak, gemi, otomobil, motor, iş makineleri gibi teknik ve sosyal alanlarda uzmanlaşmış, belli bir mühendislik dalında mühendislik eğitimi görerek mezun olmuş ve "mühendis" ünvanını kullanmayı kanunen hak eden kimse. Mühendisin eş anlamlısı kıvcı sözcüğüdür.
+
+Mühendislik felsefesi
+İlk başta matematik olmak üzere "İhtiyaçların karşılanmasında emniyet, ekonomi ve estetiğin göz önüne alınmasıdır."Ters mühendislik, mühendisliğin temelidir." Felsefî açıdan klâsik mühendislik, teklikten bütünselliğe ulaşmaktır. Ama ters mühendisliğin ilkesi, bütünsellikten tekliğe ulaşma gayesini taşır.
+Sanatsal tasarım ve aynı zamanda endüstriyel tasarım anlamında birçok sanatçı "tabiattan esinlendik ve ilham aldık" ifadesi içindedir. Aslında bu noktada ar-ge anlamıyla evrim bilimi, mevcut bilim tarafından ters mühendislik temelleriyle incelenerek şu anki bilimsel doğrusal mühendislik anlayışını var etmektedir.
+
+Mühendislik dalları
+Mühendislik, genellikle birkaç alt disipline ayrılan geniş bir disiplindir. Mühendis genellikle belirli bir disiplinde eğitim görse de, deneyim yoluyla çok disiplinli hale gelebilir. Mühendislik genellikle dört ana dala sahip olarak tanımlanır: elektrik mühendisliği, inşaat mühendisliği, kimya mühendisliği ve makine mühendisliği.
+
+Elektrik mühendisliği
+Elektrik mühendisliği, yayın mühendisliği, elektrik devreleri, jeneratörler, motorlar, elektromanyetik/elektromekanik cihazlar, elektronik cihazlar, elektronik devreler, fiber optikler, optoelektronik cihazlar, bilgisayar sistemleri, telekomünikasyon, enstrümantasyon, kontrol sistemileri ve elektronik gibi çeşitli elektrik ve elektronik sistemlerin tasarımı, çalışması ve üretimidir.
+
+İnşaat mühendisliği
+İnşaat mühendisliği, altyapı (havaalanları, yollar, demiryolları, su temini ve arıtma vb.), köprüler, tüneller, barajlar ve binalar gibi kamu ve özel işlerin tasarımı ve inşasıdır. İnşaat mühendisliği geleneksel olarak yapı mühendisliği, çevre mühendisliği ve yerölçüm dahil olmak üzere birçok alt disipline ayrılmıştır. Geleneksel olarak askeri mühendislik'ten ayrı olarak kabul edilir.
+
+Kimya mühendisliği
+Kimya mühendisliği, ticari kimyasallar, özel kimyasallar, petrol arıtma, mikro fabrikasyon, fermentasyon ve biyomolekül üretimi gibi ticari ölçekte kimyasal süreçleri yürütmek için fizik, kimya, biyoloji ve mühendislik ilkelerinin uygulanmasıdır. Kimya tesislerinin tasarımı, kurulumu, işletiminden, yeni veya mevcut kimya ürünlerinin araştırılması ve geliştirilmesinde de kimya mühendisleri çalışır. Üretim süreçlerinin tasarımı ve analizinde ısı aktarımı, kütle aktarımı, ayırma işlemleri, proses tasarımı, reaksiyon mühendisliği gibi pek çok bilim dalı ve uygulamadan faydalanırlar.
+
+Makine mühendisliği
+Makine mühendisliği, güç ve enerji sistemleri, havacılık/uçak ürünleri, silah sistemleri, ulaşım ürünleri, motorlar, kompresörler, aktarma organları, kinematik zincirler, vakum teknolojisi, titreşim izolasyon ekipmanı, üretim, robotik, mekatronik ve otomatik kontrol sistemleri-otomasyon, türbinler, ses ekipmanları ve mekatronik gibi fiziksel veya mekanik sistemlerin tasarımı ve üretimidir.
+
+Disiplinlerarası mühendislik
+Disiplinlerarası mühendislik, uygulamanın birden fazla temel dalından yararlanır. Tarihsel olarak, deniz mühendisliği ve maden mühendisliği ana dallardı. Diğer mühendislik alanları imalat mühendisliği, akustik mühendisliği, korozyon mühendisliği, enstrümantasyon ve kontrol mühendisliği, Havacılık ve uzay mühendisliği, otomotiv, bilgisayar, elektronik, enformasyon mühendisliği, petrol, çevre, sistemler, ses, yazılım, mimari, ziraat, biyosistemler, biyomedikal, jeoloji mühendisliği, tekstil, endüstriyel, malzemeler, ve nükleer mühendislik'tir.
+Bu ve diğer mühendislik dalları Birleşik Krallık'ın 36 lisanslı üye kurumunda Mühendislik Konseyi temsil edilmektedir.
+Yeni uzmanlıklar bazen geleneksel alanlarla birleşir ve yeni dallar oluşturur - örneğin, Dünya sistemleri mühendisliği ve yönetimi, mühendislik bilimleri, çevre bilimi, mühendislik etiği ve mühendislik felsefesi dahil olmak üzere çok çeşitli konu alanlarını içerir.
+
+Diğer mühendislik dalları
+Zamanla bazıları aşağıda sıralanmış ama bunlarla sınırlı olmayan pek çok mühendislik dalı ortaya çıkmıştır:
+
+Ağaç İşleri Endüstri Mühendisliği: Ham maddesi ağaç olan malzemenin işlenerek değerlendirilmesi, ağaçtan elde edilen ürünlerin tasarlanması ve buna ilişkin üretimin planlanması, ürünlerin kalite kontrolüyle ilgili mühendislik dalıdır.
+Bilgisayar mühendisliği: Temel olarak yazılım, programlama ve algoritma ile ilgilenir. Bilgisayar ağları, veritabanı yöneticiliği ve gömülü sistemler de diğer çalışma alanlarıdır. Bilgisayar mühendisliği (CE), bilgisayar donanımı ve yazılımını geliştirmek için gereken bilgisayar bilimi ve elektronik mühendisliği'nin çeşitli alanlarını birleştiren mühendislik dalıdır. Bilgisayar mühendisleri genellikle yalnızca yazılım mühendisliği veya elektronik mühendisliği (veya elektrik mühendisliği) yerine elektronik mühendisliği, yazılım tasarımı ve donanım-yazılım entegrasyonu konularında eğitim alırlar.
+Deniz teknolojisi mühendisliği: Deniz teknolojisi mühendisliği, su taşıtı ve petrol platformları ve limanlar gibi sabit yapıların tasarımını, geliştirilmesini, üretimini ve çalışma davranışını kapsar.
+Endüstri mühendisliği: İnsan, makine, enerji, para gibi girdileri belirli süreçlerden geçirerek ürün ve hizmete dönüştüren bütünleşik sistemlerin tasarımı ve iyileştirilmesiyle ilgilenir.
+Enerji sistemleri mühendisliği: Yenilenebilir (güneş, rüzgâr, hidrolik, jeotermal vb.) ve yenilenemez (kömür, petrol, doğal gaz) enerji kaynaklarıyla ilgilenir.
+Fizik mühendisliği: Doğadaki maddelerin yapısını ve aralarındaki etkileşimi inceleyen fizik bilimi bulgularının uygulama alanına dönüştürülmesi ile ilgilidir.
+Geomatik mühendisliği: Aklınıza gelebilecek her türlü hassas ölçümün tek imza yetkilisidir. Ayrıca Harita Kontrol Mühendislerinin onaylamadığı taşınmaz yasal olarak geçerli değildir.
+Havacılık ve uzay mühendisliği:  Havacılık ve uzay mühendisliği, uçak, uydular ve roketlerin tasarımını, geliştirilmesini, üretimini ve operasyonel davranışını kapsar.
+Jeoloji mühendisliği: Jeoloji mühendisliği, Dünya üzerinde veya içinde inşa edilen herhangi bir şeyle ilişkilidir. Bu disiplin, inşaat mühendisliği, çevre mühendisliği ve maden mühendisliği gibi diğer disiplinlerin çalışmalarını yönlendirmek veya desteklemek için jeolojik bilimleri ve mühendislik ilkelerini uygular. Jeoloji mühendisleri, yüzey ve yer altı ortamlarını etkileyen tesisler ve operasyonlar için örneğin kaya kazıları (örn. tüneller),
+bina temel sağlamlaştırma, şev ve dolgu stabilizasyonu, heyelan risk değerlendirmesi, yeraltı suyu izleme, yeraltı suyu iyileştirmesi, maden kazıları ve doğal kaynak arama gibi etki araştırmaları ile ilgilenirler. Yerkürenin başlangıcından günümüze kadar geçirdiği yapısal değişmeleri, yer kabuğunun yüzeyinin ve altının bugünkü durumunu inceleyen, yerleşim alanlarının ve her türlü mühendislik yapılarının yer seçimi çalışmalarının yürütülmesiyle ilgili eğitim verilen mühendislik dalıdır.
+
+Maden mühendisliği: Yeraltında bulunan kaynakların ve madenlerin üretimini günümüz tekniğine uygun olarak inceler.
+Mekatronik mühendisliği: Mekatronik kelime anlamıyla makine ve elektronik kelimelerinin birleşimiyle oluşturulmuş yeni bir terimdir. Mekatronik mühendisliği; kontrol otomasyon mühendisliği, makine mühendisliği, yazılım mühendisliği, elektrik elektronik mühendisliği dallarının kesişiminden oluşan yeni bir mühendislik dalıdır. İlgi alanları genellikle sanayide bulunan robotik cihazlardır.
+Metalürji ve malzeme mühendisliği: Çeşitli birçok ham maddeden kullanışlı ürünlerin ve malzemelerin üretimi ve geliştirilmesinde rol alan mühendislerdir. Metaller ve çeşitli birçok ham maddenin günlük hayattaki uygulamalarıyla ilgilenmekle beraber, kullanışlı malzemelerin tasarımı ve var olanların geliştirilmesiyle ilgilenmektedirler.
+Polimer mühendisliği: Plastik, kauçuk ve elyaf gibi polimetrik malzemelerin üretimi ve şekillendirilmesiyle ilgilenir.
+Uzay mühendisliği: Uzay Mühendisliği, Dünya çevresindeki hava-uzaydan ekonomik, bilimsel ve teknolojik amaçlı hizmet ve ürün sağlamayı maçlayan bir mühendislik dalıdır. Uzay mühendisleri sivil ve askeri kuruluşlarda, dünya çevresinde yörüngeye konacak insanlı ve insansız hava-uzay araçlarını ve bunları yörüngeye koyacak roketleri tasarlayan ve inşa eden, görev ve yol planlarını hesaplayan, sürekli kontrol ederek, görevlerini yerine yetirmelerini sağlayan mühendislerdir. Ayrıca, hava-uzay araçlarında yapılacak bilimsel ve teknolojik amaçlı deneylerin gerçekleştirilmesinde de görev alırlar.
+Ziraat mühendisliği: Bitkisel üretim, hayvansal üretim yanında tarımsal biyoteknoloji, tarım makineleri, kültürteknik, toprak bilimi ve bitki besleme, tarım ekonomisi, tarım ürünleri teknolojisi, bitki koruma, peyzaj mimarlığı ve biyogazdan enerji üretimi alanlarında uğraş veren mühendislik dalıdır.
+
+Ayrıca bakınız
+Mühendislik ana hatları
+Mühendislik dalları listesi
+Mühendislik felsefesi
+Mühendislikte kadınlar
+Mühendislik yönetimi
+Mühendislik Fiziği
+Altyapı
+Mühendislik etiği
+
+
+== Kaynakça ==

@@ -1,0 +1,123 @@
+Makine mühendisliği, mekanik sistemlerin tasarım, analiz, imalat ve bakımı için mühendislik fiziği ve mühendislik matematiği ilkelerini malzeme bilimi ile birleştiren bir mühendislik dalıdır.
+Makine mühendisliği, mekanik, dinamik, termodinamik, malzeme bilimi, yapısal analiz ve elektrik dahil olmak üzere temel disiplinlerin anlaşılmasını gerektirir.
+Makine mühendisleri bilgisayar destekli tasarım (CAD), bilgisayar destekli üretim (CAM), ürün yaşam döngü analizi vb. araçları tasarlama ve analiz için kullanır.
+Makine mühendisleri, üretim tesisleri, endüstriyel ekipman, makine, ısıtma, havalandırma ve soğutma sistemi, taşıma sistemleri, uçak, su taşıtı, robotik, tıbbi cihazlar, silahlar vb. araçların mekanik, ısı, akışkan parça ve sistemlerinin tasarım ve verim hesaplarını ve çizimlerini yapar.
+Makine mühendisliği, makinelerin tasarımını, üretimini ve işletimini içeren mühendislik dalıdır.
+Makine mühendisliği, 18. yüzyılda Avrupa'da Sanayi Devrimi sırasında bir alan olarak ortaya çıktı; ancak gelişimi dünyada birkaç bin yıl öncesine kadar izlenebilir. 19. yüzyılda fizik alanındaki gelişmeler makine mühendisliği bilimlerinin gelişmesine yol açtı. Alan, gelişmeleri dahil etmek için sürekli olarak gelişti; bugün makine mühendisleri kompozit malzemeler, mekatronik ve nanoteknoloji gibi alanlardaki gelişmeleri takip ediyor. Aynı zamanda havacılık ve uzay mühendisliği, metalurji mühendisliği, inşaat mühendisliği, elektrik mühendisliği, imalat mühendisliği, kimya mühendisliği, endüstri mühendisliği ile ve diğer mühendislik disiplinlerinde değişen miktarlarda örtüşür. Makine mühendisleri ayrıca biyomedikal mühendisliği alanında özellikle biyomekanik, taşınım olayı, biyomekatronik, biyonanoteknoloji ve biyolojik sistemlerin modellenmesinde de çalışabilirler.
+
+Ana faaliyet alanları
+Mühendislik faaliyetlerinin en eskisi ve en geniş mühendislik alanı olan makine mühendisliği, makineler, enerji ve imalat yöntemleri ile ilgilenir. Makine mühendisleri takım tezgâhlarının yanı sıra endüstrinin tüm dalları için makineler ve donanımlar tasarlar ve imal ederler. Örneğin; türbinler, presler, hafriyat makineleri, gıda işleyiciler, iklimlendirme ve soğutma sistemleri, yapay kalpler ve uzuvlar, uçaklar, Dizel lokomotifler, otomobiller, kamyonlar, kitle ulaşım araçları için motorlar vb.
+Makine mühendisi çalıştığı kurumun yapısına göre, mekanik sistemlerin, gaz, buhar ve rüzgar tribünlerinin, kompresörlerin, nükleer reaktörlerin, içten yanmalı motorların, soğutma, ısıtma, havalandırma sistemlerinin tasarımını yapar, geliştirir. Bunu yaparken fayda ve maliyet faktörlerini göz önünde bulundurur.
+
+Enerji konusundaki uzmanlık alanında makine mühendisleri elektrik jeneratörlerini tahrik edecek hidrolik türbinlerin, buhar gücü oluşturacak kazan, motor, türbin ve pompaların tasarımı, üretimi ve çalıştırılmasıyla ilgilenir. Enerji santralleri tasarlarlar, çalıştırır ve yakıtların ekonomik yanması, ısı enerjisinin mekanik güce dönüştürülmesi ve bu gücün yararlı işlerde kullanımıyla ilgilenirler.
+Isıtma, havalandırma ve iklimlendirme alanında makine mühendisleri ev, işyeri, ticari binalar ve endüstriyel tesislerde kontrollü sıcaklık ve nem koşulları sağlarlar. Besinlerin soğuk tutulması, soğuk depolama ve buz üretim tesisleri için gerekli donanım ve sistemleri geliştirirler. 
+Makine mühendisleri ayrıca yolcu, savaş ve yük gemilerindeki makinelerin tasarımında, otomotiv sanayinde otomobil, kamyon ve otobüs tasarım ve üretiminde ve hava-uzay sanayilerinde uçak ve uzay araçlarının tasarımında çalışır.
+
+Eğitim
+Makine mühendisliği dereceleri dünyada çeşitli üniversitelerde verilir.
+Türkiye'de teknik üniversitelerin makine mühendisliği bölümünün 4 yıllık lisans dersleri başarıyla tamamlandığında makine mühendisi olunur. İyi mühendislik eğitimi veren üniversitelerin mühendislik bölümleri eğitim kalitelerini ABET, MÜDEK vb. kuruluşlara denetleterek akreditite olurlar.
+Alınan derslerin dışında atölyede imal usulleri gösterilip uygulamalı öğretilerek atölye stajı yapılır. Ayrıca ders yılı sonunda fabrikalarda imalat usulleri ve fabrika yönetimi stajları yapılır.
+Yunanistan'da program beş yıllık müfredata ve tamamlandığında B.Sc. yerine "Diploma" verilen "Diploma" Tezi şartına dayanır.
+Amerika Birleşik Devletleri'nde çoğu makine mühendisliği lisans programı, üniversiteler arasında benzer ders standartlarını sağlamak için ABET tarafından akredite edilmiştir. ABET web sitesi, 11 Mart 2014 itibarıyla 302 akredite makine mühendisliği programını listeler.
+Kanada'daki makine mühendisliği programları, Kanada Mühendislik Akreditasyon Kurulu (CEAB) tarafından akredite edilmiştir ve mühendislik dereceleri sunan diğer birçok ülkede benzer akreditasyon kurumları vardır.
+
+Makine mühendisliği ders programı
+Makine mühendisliği lisans dersleri genellikle şunlardır:
+
+Bilgisayar Destekli Mühendislik Çizimi
+Genel Fizik
+Genel Kimya
+Analitik Geometri ile Kalkülüs
+Mühendisler için Python ile Programlama
+İş Sağlığı ve Güvenliği
+Bilgi Teknolojileri ve Uygulamalarına Giriş
+Çok Değişkenli Fonksiyonlar İçin Hesaplama
+Diferansiyel denklemler
+Termodinamik
+Statik
+Malzeme bilimi
+Elektrik ve Elektronik Mühendisliğinin Temelleri
+İmalat Teknolojileri
+İmalat Mühendisliği
+Malzemelerin Mukavemeti
+Dinamik
+Makine Mühendisleri için Uygulamalı Matematik
+Akışkanlar mekaniği
+İmal usulleri
+Makine elemanları
+Nümerik Yöntemler
+Makine Teorisi
+Kontrol Sistemleri
+Isı transferi
+Termal Mühendisliği
+Ekonominin Temelleri
+Mühendislik Ekonomisi
+Makine Mühendisliği Tasarımı
+Makine Mühendisliği Sistemleri Laboratuvarı
+Serbest Seçmeli Dersler
+Teknik Olmayan Seçmeli Dersler
+Bu lisans derslerine lisans veya yüksek lisans öğreniminde, seçilen uzmanlık dalına göre ve bazıları aşağıda yazılı dersler alınabilir ancak bu dersler üniversiteden üniversiteye değişir:
+
+Isıtma-Soğutma-İklimlendirme (HVAC)
+Makine dinamiği
+Mekanik titreşimler
+Hidrolik makineler
+Termik turbomakineler
+Motor tasarımı
+Turbomakineler
+İçten yanmalı motorlar
+Motorlu taşıtlar
+Endüstriyel hidrolik
+Endüstriyel pnömatik
+Robotik
+Mekatronik
+Kompozit malzemeler
+Triboloji (Yağlama tekniği)
+Talaşlı imalat yöntemleri
+Kaynak Bilgisi
+Döküm Bilgisi
+Plastik Şekil Verme Yöntemleri
+Ölçme tekniği
+Mekanik tesisat
+Lineer cebir
+Sonlu Elemanlar Yöntemi
+Transport tekniği
+Çekirdek makine mühendisliği müfredatına ek olarak, birçok makine mühendisliği programı, bu konular için ayrı bir bölüm yoksa, kontrol sistemleri, robotik, ulaşım ve lojistik, kriyojenik, yakıt teknolojisi, otomotiv mühendisliği, biyomekanik, titreşim, optik ve diğerleri gibi daha uzmanlaşmış programlar ve dersler sunar.
+Çoğu makine mühendisliği programı ayrıca pratik problem çözme deneyimi kazanmak için değişen miktarlarda araştırma veya topluluk projeleri gerektirir.
+Makine mühendisliği öğrencilerinin okurken bir veya daha çok staj yapmaları yaygındır ancak bu bazı üniversiteler tarafından zorunlu tutulmaz. Ortak eğitim başka bir seçenektir.
+Gelecekteki iş becerileri araştırması, öğrencilerin yaratıcılığını ve yenilikçiliğini besleyen çalışma bileşenlerine olan talebi artırır.
+
+Makine mühendisinin çalışma alanları
+Makine mühendisi hemen her sektörde (imalat, inşaat, kimya, gıda, ilaç, enerji, tekstil sanayilerinde, Mühendislik ofislerinde, eğitim ve öğretim kurumlarında) tasarım, Ar-Ge, planlama, imalat, satın alma, kalite kontrol, tamir ve bakım konularında mühendis, şef, kontrolör, bilirkişi, teknik müdür, fabrika müdürü vb. ünvanlarıyla çalışırlar.
+
+Görevler
+Makine mühendisleri genellikle şu işleri yapar:
+
+Makine mühendisliğini içeren ürünlerin araştırma ve geliştirmesini yapar.
+Makine ve aparatları tasarlar, teknik resim kurallarına göre çizer ve uygunsa çizim ve projelerini onaylar
+Sac, plastik, metal enjeksiyon vb. kalıplarının hesaplamalarını yapar, kalıpları çizer| çizdirir ve tasarımını kontrol eder.
+Tesis, makine, kalıp veya makine elemanlarının mekanik (kuvvet, hız, ivme mukavemet vb.) ısı, termodinamik, akışkan (ısı, sıcaklık, basınç, debi, enerji vb.) hesaplarını yapar.
+Çeşitli makine veya sistemlerin otomatik kontrol sistemini tasarlar, modeller, hesaplamalarını yapar, performansını değerlendirir.
+Mekanik ve ısıl cihazların arızasını teşhis eder, analiz eder, sonuca göre düzeltici veya önleyici tedbirler alır veya aldırtır.
+Makine mühendisliğini içeren ve uzmanı olduğu ürünlerin performans ve güvenliği hakkında bilirkişilik yapar.
+Can ve mal güvenliğini sağlamak için yasalara göre periyodik olarak muayene edilip güvenlik durumu yazılı olarak raporlanması gereken makine ve ekipmanın (hava tankı, kaldırma ve taşıma araçları (asansör, lift, vinç vb.), üretim tezgahı, havalandırma ve yangın söndürme tesisatlarının kontrollerini yapıp raporlar.
+Mekanik ve ısıl cihazları tasarlar, geliştirir, performansını ölçer ve değerlendirir.
+Makine ve elemanlarının prototiplerini yapar veya yaptırır ve dener.
+Cihaz veya makine elemanlarının test sistemlerini tasarlar, çizer, hesaplar, test sonuçlarını izler ve test parametrelerini ölçer, analiz eder, gerektiğinde tasarımı geliştirir.
+Üretilen veya üretilecek çeşitli makine, araç ve parçalarının ölçü ve performanslarının kalite kontrol dokümanlarına uygunluğunu raporlatır, sonuca göre ürün kalitesini onaylar veya uygunsuzluk durumunda gerekli önlemleri almak üzere üretim sorumlusunu bilgilendirir
+Çizim, tasarım, kalıp yapım, makine tamir ve bakım işleri yapan ve/veya imalatta çalışan kişileri yönetir.
+Tesis, makine, cihaz, kalıp, aparat vb. tamir ve bakım işlerini planlar ve yaptırır
+Üretimde insanların güvenli çalışması için iş sağlığı güvenliği kural ve yönetmeliklerine uygun düzeltici veya önleyici önlemler alır veya aldırır.
+Üretim düzenlerin üretim hesaplarını yapar, üretim ve kalite kontrol sistemlerini (makine, kalıp, aparat vb. donanımı) kurar, makine ve aparat seçimi yapar, kalıplarını yaptırır ve/veya gerekli malzeme ve makinelerin satın almasını yapar.
+Üretilecek ürünün üretim ve kalite kontrol düzenini (makine, kalıp, aparat vb. donanımı) tasarlar, ürün ve parça kalite karakteristiklerini raporlatır, uygunsuzluklar varsa düzeltici ve önleyici faaliyetleri yaptırır.
+Makine ve/veya makine elemanları, süreçler ve ürünlerin endüstriyel maliyet analizini yapar.
+Üretimde kullanılacak kalite kontrol sistemini kurar, kalite kontrol alet, cihaz ve yöntemlerini seçer, kalite kontrol personelini kontrol yöntemi ve raporlama konularında eğitir ve/veya yönetir.
+Üretimde çalışacak veya makine kullanacak kişilere makinelerin güvenli kullanımı konusunda yazılı, sözlü ve uygulamalı eğitim verir
+Binaların mekanik tesisat, ısıtma, havalandırma ve klima (HVAC)tesisat projelerinin çizim ve hesaplarını kontrol eder ve MMO'sından aldığı yetkiyle onaylar.
+
+Dış bağlantılar
+Makina Mühendisleri Odası 1 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi.
+
+Kaynakça
+Ayrıca bakınız
+Otomotiv mühendisliği

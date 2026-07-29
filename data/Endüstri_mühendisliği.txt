@@ -1,0 +1,72 @@
+Endüstri Mühendisliği ya da Sanayi Mühendisliği (İngilizce: Industrial engineering), insan, malzeme ve makineden oluşan bütünleşik sistemlerin kuruluş ve devamlılığının yönetimi ile ilgilenen mühendislik dalıdır. Endüstri mühendisleri, diğer mühendislik dallarının birçoğunun derslerini de alıp, üzerine işletme, yönetim, üretim, ekonomi ve endüstri mühendisliğine özel derslerle birlikte diğer mühendislik alanlarının yöneticilik yetkisine sahip mühendislik dalı.
+Çalışmalarında matematik, fen bilimleri ve sosyal bilimlerdeki özel bilgi ve becerileri mühendislik analiz ve tasarım ilke yöntemleriyle birleştirerek, bu sistemlerden elde edilecek sonuçları belirleyip, kestirerek değerlendiren ve disiplinlerüstü bir yaklaşım sergileyen endüstri mühendisleri, zaman, para, malzeme, enerji gibi kaynakların verimli kullanımına ve mühendislik hizmetlerinin kalitesini artırmaya yönelik çalışmalarda bulunur.
+Endüstri Mühendisliği diğer mühendislik dallarından farklı bir yapıya ve düşünce sistemine sahiptir. En önemli fark endüstri mühendisliğinin parçayı değil bütünü göz önüne alarak çalışması, sistemin bütünüyle ilgilenmesidir. İkinci önemli fark ise her türlü uygulamada insan faktörünü dikkate almasıdır. Bu sebeplerden dolayı temel doğa bilimleriyle olan ilişkisinin yanında sosyal bilimlerle de iç içedir.
+
+Tarihçe
+Endüstri mühendisliği ile ilgili kavramların ortaya çıkması ve yaygın olarak kullanılmaya başlanması 19. yy.'ın başlarına kadar gitmektedir. Kapitalist ekonominin öncüsü olarak bilinen Adam Smith, Ulusların Zenginliği adlı eserinde işbölümünün öneminden ve faydalarından bahsetmiştir. Adam Smith'e göre her bir işçinin birçok değil de, sadece özel bir hareket üzerinde yoğunlaşması, üretimdeki verimliliğin artmasında çok büyük öneme sahiptir. 1832'de Charles Babbage da "Makina İktisadı ve İmalatçılar Üzerine" adlı kitabında işbölümü, organizasyon çizelgesi ve işçi ilişkileri gibi konuları incelemiştir. Bu çalışmalar endüstri mühendisliğinin temel almış olduğu birtakım kavramlara değinmiş olmasına rağmen, endüstri mühendisliği asıl Frederick Winslow Taylor'ın yapmış olduğu çalışmalar sayesinde belli bir yere gelmiş ve asıl şeklini almıştır. Taylor, kronometrik zaman etüdünü ilk kullanan kişi olmakla birlikte, iş ve zaman etüdü gibi kavramların yaratıcısıdır. Frank ve Lilian Gilbreth de iş ve zaman etüdü konularını geliştirmiş ve daha ileri bir seviyeye getirmişlerdir.
+Endüstri mühendisliğindeki asıl ilerlemeler ise birçok diğer mühendislik alanında olduğu gibi II. Dünya Savaşı ve sonrasına rastlar. Bu dönemde yöneylem araştırması olarak bilinen alanla daha da iç içe geçmiş ve birbirini tamamlar nitelik kazanmıştır. Bu sayede endüstri mühendisliği sadece imalatı konu alan bir yapıdan kurtulmuş, gerçek hayatta karşılaştığımız sistemlerle ilgili her türlü soruna çözüm üretmeye çalışan, araştırma yelpazesini oldukça geniş tutan bir mühendislik dalı haline gelmiştir. Matematik, bilgisayar teknolojileri (veritabanları), İnternet, Yönetim Bilişim Sistemleri ve ağlar) ve programlama (yeni ve daha verimli algoritmaların ortaya çıkması ve kullanılması, nesne-odaklı programlama) tekniklerinin gelişmesi ile birlikte daha karışık sistemlerin çözümü kolaylaşmış ve endüstri mühendisliği yeni bir boyut kazanmıştır.
+Günümüzde dünyada birçok üniversitede endüstri mühendisliği bölümü kurulmuş durumdadır. Kimi yerlerde sistem mühendisliği, imalat mühendisliği, imalat sistemleri mühendisliği ya da mühendislik yönetimi adıyla da bilinmektedir.
+Türkiye'de ilk endüstri mühendisliği bölümü 1969 yılında kurulmuşturi. İlk temel İTÜ'de 1949 yılında Takım Tezgahları Kürsüsü'nde Fabrika Organizasyonu dersi verilmeye başlaması ve "Sanayi Mühendisliği" ismi ile bir bölüm kurulması ile ilgili 8 Mayıs 1968 tarihinde karar alınmasına dayanır. 1969 yılında ise İTÜ ve ODTÜ'de endüstri mühendisliği adı ile bölüm kurulmuştur.
+
+Dersler
+Temel mühendislik eğitimleri yanında, yöneylem araştırması, üretim sistemleri, üretim planlama, stokastik modelleme, tedarik zinciri yönetimi, modelleme ve optimizasyon yöntemleri, yönetim ve organizasyon, kalite yönetimi, benzetim, iş ve zaman etüdü, iş güvenliği, insan kaynakları yönetimi, proje yönetimi, girişimcilik ve fizibilite etüdü ve yönetim bilişim sistemleri alanları, üniversitelerdeki endüstri mühendisliği bölümlerinin başlıca derslerindendir.
+
+Modern Uygulamalar
+Günümüzde endüstri mühendisliği; sadece geleneksel imalat sektörüyle sınırlı kalmayıp sağlık, finans, lojistik ve hizmet sektörlerinde de kritik bir rol oynamaktadır. Modern endüstri mühendisliği uygulamaları, karmaşık süreçleri optimize etmek için çeşitli temel metodolojilerden yararlanır:
+
+Yalın Üretim (Lean Manufacturing):** Süreçlerdeki israfı yok ederek verimliliği ve müşteri değerinin artırılmasını sağlar.
+Altı Sigma (Six Sigma):** İstatistiksel veriler kullanılarak hata oranlarının minimize edilmesini ve kalitenin artırılmasını amaçlar.
+Yöneylem Araştırması (Operations Research):** Karar verme süreçlerinde matematiksel modelleme ve algoritmaların kullanılmasını sağlar.
+Sistem Simülasyonu (Systems Simulation):** Gerçek dünya süreçlerinin bilgisayar ortamında modellenerek sonuçların önceden tahmin edilmesine olanak tanır.
+
+Endüstri mühendisliği ilgi alanları
+Mühendislik, genelde problem tanımlama, çözüm seçenekleri türetme, karar verme ve çözümden oluşan bir süreçtir. Endüstri mühendisleri bu tanım doğrultusunda tasarımlar yapar. Söz konusu tasarımlar endüstri mühendislerince "üretim sistemleri tasarımı" ve "üretim sistemleri kontrolü" şeklinde gerçekleştirilmektedir.
+Mal ve/veya hizmet üreten bir örgütün aşağıdaki gibi işlevleri endüstri mühendislerince tasarlanmaktadır.
+
+Malzemeler
+Makine ve donanımı
+Veri toplama ve analiz yöntemleri
+İşçilerin çalışma yöntemleri
+Kolaylıkların yerleşimi ve malzeme akışıları
+Malzeme taşıma donatı ve yöntemleri
+Çalışma yeri
+Hammadde ve ürün depolarının büyüklükleri ve yerleri
+Yönetim raporları için veri kayıt yöntemleri
+Bakım yöntemleri
+İş emniyet yöntemleri
+33.YA/EM kongresinde ele alınan konular endüstri mühendisliğinin ilgi alanları ile ilgili fikir verebilecektir:
+
+Tedarik zinciri
+Lojistik
+Envanter yönetimi
+Fiyatlandırma
+Talep tahmini
+Yalın üretim
+Üretim planlama ve Çizelgeleme
+Kalite yönetimi ve Güvenilirlik
+Mühendislik ekonomisi
+Tesis Yeri Seçimi ve Yerleşimi
+Bilgisayar Tabanlı Tasarım ve İmalat
+Ergonomi
+Sürdürülebilirlilik
+Enerji ve Verimlilik
+İleri Üretim Teknolojileri
+AR-GE ve Yenilikçilik
+Sistem mühendisliği
+Tersine mühendislik
+Üretim Sistemleri
+Bilgi Sistemleri Yönetimi
+Sosyal Medya ve İletişim
+Veri madenciliği
+İnsan kaynakları yönetimi
+Afet Yönetimi ve Toplumsal Sorunlar
+Savunma Sistemleri
+Mühendislik Eğitimi
+Yöneylem Araştırması Teknikleri
+Modelleme ve Simulasyon
+Belirsizlikte Optimizasyon
+Servis sistemleri
+Finans Mühendisliği ve Risk yönetimi
+
+
+== Kaynakça ==

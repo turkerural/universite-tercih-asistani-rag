@@ -1,0 +1,24 @@
+Gıda mühendisliği, bilimsel bilgiler ve mühendislik bilgileri yardımıyla gıdaların güvenilir bir şekilde üretimini, hazırlanmasını, işlenmesini, paketlenmesini, dağıtılmasını ve gıdalardan uygun bir şekilde yararlanılmasını sağlayan mühendislik dalıdır. Temel amacı insanların sağlıklı beslenmesidir.
+
+Gıda mühendisliği bölümünün bilim dalları
+Gıda Bilimleri Dalı: Gıda kimyası, gıda mikrobiyolojisi, gıda kalite kontrolü ve beslenme bilim dalları olarak kendi arasında ayrılır.
+Gıda Teknolojileri Bilim Dalı: Gıda mühendisliği temel işlemleri, yağ teknolojisi, meyve-sebze teknolojisi, hububat teknolojisi, süt teknolojisi, et teknolojisi, gıda maddelerinin ambalajlanması, biyoteknoloji, gıda ekonomisi ve endüstrisi işletmeciliği bilim dalları olarak kendi arasında ayrılır.
+
+Belli başlı dersler
+Gıda mühendisliği bölümlerinin eğitim süresi 4 veya 5 (hazırlık sınıfı olan okullarda) yıldır. Eğitimin ilk yıllarında matematik, fizik, kimya ağırlıklı dersler ile birlikte ekonomi, biyoloji ve temel mühendislik dersleri okutulmakta, eğitim ilerledikçe gıda mühendisliği alanına özgü olan yağ teknolojisi, meyve-sebze teknolojisi, hububat teknolojisi, süt teknolojisi, et teknolojisi, gıda maddelerinin ambalajlanması, duyusal analiz, temel işlemler, moleküler biyoloji, mikrobiyoloji, fizikokimya, organik kimya, akışkanlar mekaniği, kütle aktarımı, ısı aktarımı, mühendislik termodinamiği, gıda katkı maddeleri gibi derslere yoğunlaşılmaktadır. Öğrencilere ayrıca gıda sanayisini tanıması, uygulama bilgileri edinmesi ve beceri kazanması amacıyla endüstride staj yaptırılmaktadır.
+
+Kullanım alanları
+Gıda mühendisliği, dünya nüfusunun artmasıyla birlikte karşılanması zorlaşan beslenme ihtiyaçlarının giderilmesi için teknolojik altyapılar sağlayabilecek bir bilim dalı olarak görülmektedir. Bu nedenle, doğa bilimlerindeki yöntemleri, demografi ve ekonomi gibi sosyal bilimlerle birlikte değerlendirebileceği düşünülmektedir. Gıda mühendisliği, üretim maliyetlerinin azaltılması alanında otomasyon ve robotların kullanımı, enerji kaynakları ve doğal koşulların şartları doğrultusunda yeni politikaların belirlenmesi, lojistik ve biyoteknolojik uygulamaların optimizasyonu gibi çalışmalar gerçekleştirmektedir.
+3D gıda baskısı gibi yenilikçi denemelerin yanı sıra hal değişimleri, enzimler ve bitkisel proteinler başta olmak üzere birçok alan üzerine araştırmalarda bulunulmaktadır. Gıdaların kullanım ömürlerinin uzatılması ve kalitelerinin artırılması amacıyla yüksek sıcaklık, yüksek basınç ve pastörizasyon işlemleri yapılmaktadır. Bu doğrultuda, gıda mühendisliği tarafından fizik, organik kimya, analitik kimya, mikrobiyoloji, biyokimya ve belirli bir dereceye kadar tıp disiplinleriyle ortak çalışmalar gerçekleştirilmektedir.
+
+Tarihi
+Gıda mühendisliğinin tarihsel gelişiminde, tarım devriminin yaşanması ve ilkel besin saklama yöntemlerinin gelişmesi önemli bir yer tutmaktadır. Nicolas Appert'ın konserveleme ve Louis Pasteur'ün pastörizasyonu keşfetmesi, modern anlamda gıda mühendisliğinin başlangıcı olarak değerlendirilmektedir. 1900'lü yıllardan itibaren, genetiği değiştirilmiş organizmalar yöntemi kullanılmaya başlanmıştır. Günümüzde ise nanoteknoloji, biyosensörler ve yapay zeka tabanında yeni gıda mühendisliği teknolojileri geliştirilmektedir.
+
+Gereken nitelikler
+Gıda mühendisliği bölümüne girmek isteyen bir kimsenin matematik, biyoloji, fizik ve özellikle kimya ve ekonomi ile ilgili olması gerekir. Ayrıca, gıda mühendisliği temelde disiplinlerarası bir yapı gösterdiğinden bu bölümü tercih eden kişilerin okumayı seven, araştırmaya yönelik çalışmalar yapabilecek, sürekli çalışmayı göze alabilecek ve yenilikleri izleyebilecek bir yapıda olmaları beklenir.
+
+Kazandıkları unvan ve yaptıkları işler
+Mezunlar, mezun olduklarında doğrudan gıda mühendisi unvanını almaktadır. Gıda mühendisliği esas itibarıyla ne sadece bir üretici mühendislik dalıdır ne de denetçi dalıdır. Gıdanın üretimiyle "tarladan çatala" (farm to fork) kadar ilgilenebilme, düzeltme, araştırma geliştirme ve toksikolojik risk analizi konularında yetki sahibidir. Bu süreç dahilinde, mühendis, hammadde kabulü analiz sonuçlarıyla yorumlama, hammaddenin üretime dahili, üretim sırasında ve sonrasındaki çıkabilecek sorunların ortadan kaldırılması buna rağmen vuku bulan sorunları çözmek, depolama koşulu ve süresi belirlenmesi, pazarlama, satış ve kalite düzeyi temini, araştırma ve geliştirme (Ar-ge), ürün geliştirme (Ür-ge) gibi bölümlerde yönlendirici, teknik bir yönetici görevi üstlenir. Diğer bir deyişle gıda mühendisliği; kimya mühendisliği, ziraat mühendisliğinin gıda sanayisi alanındaki uygulamalarını karşılayan bir mühendisliktir. Bunların yanı sıra, aldığı mühendislik ve ekonomi eğitimiyle, minimum maliyetle maksimum kar koşullarının optimizasyonunu sağlayabilir.
+
+
+== Kaynakça ==

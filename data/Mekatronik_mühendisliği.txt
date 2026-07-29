@@ -1,0 +1,36 @@
+Mekatronik, mekanik ve elektronik kelimelerinin uygun bir şekilde birleştirilmesinden oluşmuştur ve ilk kez 1969 yılında Japon Yasukawa Elektrik Şirketi'nden bir mühendis makine ve elektronik mühendisliği alanlarının birleşmesi anlamında "mekatronik" kelimesini kullanmıştır.Mekatronik kelimesi aynı zamanda Avrupa Kıtası'nda da yıllardır kullanılmaktadır. Her ne kadar Amerika ve İngiltere'de ayrı bir çalışma ve uygulama alanı olarak kabulü yavaş gerçekleşse de, lisans, yüksek lisans ve doktora seviyesinde açılmakta olan ders sayısındaki artış, mekatroniğin bütün dünyada ayrı bir disiplin olarak kabul edildiğinin bir göstergesidir. Mekatronik, makine, elektronik, yazılım ve kontrol mühendisliğine dayanan, çok kontrollü bir mühendislik dalıdır. Gelişen teknolojiye bağlı olarak birçok alan ve sektörle bağlantılı olan mekatronik hemen her evin içinde kullanılan elektronik cihazların üretiminde kullanılmaktadır.
+Mekanik ve elektronik bileşenlerden oluşan, verileri algılayıcıları (sensörler) yardımıyla çevre ortamdan algılayan, toplamış olduğu bu verileri kontrol donanımları (mikroişlemciler vs.) ve hafızasındaki yazılımlar marifetiyle yorumlayan ve gerekli kararları alabilen, tahrik elemanları (aktüatörler) ile de gerekli tepkileri veren tüm makineler, cihazlar ve sistemler birer mekatronik sistemlerdir.
+Algılayabilen, ölçebilen, karar verebilen ve bu karar yönünde hareket edebilen otomatik makineler (yani mekatronik sistemler) savunma sanayiinde, güvenlik sistemlerinde, makine sanayinde, endüstriyel otomasyon sistemlerinde, tıpta, tarımda, bankacılıkta, madencilikte ve birçok alanda kullanılmakta ve her geçen gün kullanım alanı artmaktadır.
+Günümüzde yaygın olarak kullanılan CNC makineler, gece görüş sistemleri, mayın tarama robotları, otomatik stoklama sistemleri, fotoğraf makineleri, videolar, bankamatikler gibi sistemler ve ürünler birer mekatronik sistemlerdir.
+
+Mekatroniğin ilgi alanları
+Modelleme ve dizayn
+Sistem entegrasyonu
+Tahrik elemanları ve sensörler
+Akıllı kontrol
+Yazılım
+Robotik
+Üretim
+Hareket kontrol
+Titreşim ve gürültü kontrol
+Mikro cihaz ve optoelektronik sistemler
+Otomotiv sistemleri ve diğer uygulamalar
+Programlama
+Otomatlar
+Fabrika otomasyonları
+
+Ayrıca bakınız
+Biyomekatronik
+Otomasyon
+Elektromekanik
+
+Dış bağlantılar
+IEEE/ASME Transactions on Mechatronics. 10 Haziran 2021 tarihinde Wayback Machine sitesinde arşivlendi.
+Mechatronics Journal 16 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. – Elsevier
+mechatronic applications and realisation 2 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi. List of publications concerning examples
+Institution of Mechanical Engineers - Mechatronics, Informatics and Control Group (MICG) 30 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi.
+NF E 01-010 2008 – AFNOR (French standard NF E 01-010 23 Haziran 2016 tarihinde Wayback Machine sitesinde arşivlendi.)
+XP E 01-013 2009 – AFNOR (French standard NF E 01-013)
+
+
+== Kaynaklar ==

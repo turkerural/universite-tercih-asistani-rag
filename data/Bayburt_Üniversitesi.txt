@@ -1,0 +1,218 @@
+Bayburt Üniversitesi (BAYÜ), 2008 yılında Bayburt'ta kurulan bir devlet üniversitesidir. TBMM'nin çıkardığı kanunla 31 Mayıs 2008 tarih ve 26892 sayılı Resmi Gazete'de yayımlanmış kanuna göre kurulmuştur.
+Üniversitenin Demirözü Meslek Yüksekokulu, Aydıntepe Meslek Yüksekokulu, Baberti Külliyesi ile Dede Korkut külliyesinde eduroam ağına kablosuz erişim imkânı bulunmaktadır.
+
+Misyonu
+Eğitim-öğretim, araştırma-geliştirme ve topluma hizmet süreçlerinde katılımcı, araştırmacı, gelişmeye açık, evrensel değerlere saygılı bir yönetim anlayışı ile ekip olarak çalışarak ulusal ve uluslararası alanda etkili olmak,
+Rekabetçi, sonuç alıcı işbirlikleri geliştirip, modern ve üretime yönelik bilgi-teknoloji üreterek, kentin toplumsal ve ekonomik gelişimini sağlamada öncülük etmek,
+Sağladığı güvenli, sağlıklı, huzurlu ve bilime dayalı bir çalışma ortamıyla öğrencilerini başarıya odaklamak ve tüm potansiyellerini kullanabilmelerini sağlamak,
+Mesleki ve akademik alanda yetkin, girişimci kendini sürekli geliştiren toplumsal değerlere sahip ve topluma faydalı olacak bireyler yetiştiren bir üniversite olmaktır.
+
+Vizyonu
+Kaliteli eğitimi, bilgi ve beceriye yönelik hizmet üretimi, bilimsel ahlak ve değerlere sahip girişimci bireyleri ile topluma her anlamda katkı sağlayan, başarıya odaklı, tercih edilen bir üniversite olmak.
+
+Akademik Birimler
+Eğitim Fakültesi
+Bilgisayar ve Öğretim Teknolojileri Eğitimi
+Bilgisayar ve Öğretim Teknolojileri Eğitimi İ.Ö.
+Din Kültürü ve Ahlak Bilgisi Eğitimi
+Din Kültürü ve Ahlak Bilgisi Eğitimi İ.Ö.
+Eğitim Bilimleri
+Eğitim Bilimleri İ.Ö.
+Güzel Sanatlar Eğitimi
+Güzel Sanatlar Eğitimi İ.Ö.
+Matematik ve Fen Bilimleri Eğitimi
+Matematik ve Fen Bilimleri Eğitimi İ.Ö.
+Özel Eğitim
+Özel Eğitimi İ.Ö.
+Temel Eğitim
+Temel Eğitim İ.Ö.
+Türkçe ve Sosyal Bilimler Eğitimi
+Türkçe ve Sosyal Bilimler Eğitimi  İ.Ö.
+Yabancı Diller Eğitimi
+Yabancı Diller Eğitimi İ.Ö.
+
+Mühendislik Fakültesi
+Bilgisayar Mühendisliği
+Elektrik - Elektronik Mühendisliği
+Endüstri Mühendisliği
+Gıda Mühendisliği
+Gıda Mühendisliği (II. Öğretim)
+İnşaat Mühendisliği
+İnşaat Mühendisliği (II. Öğretim)
+Kimya Mühendisliği
+Makina Mühendisliği
+Makina Mühendisliği (II. Öğretim)
+
+İktisadi ve İdari Bilimler Fakültesi
+İşletme
+İşletme İ.Ö.
+İktisat
+İktisat İ.Ö.
+Maliye
+Maliye İ.Ö.
+Siyaset Bilimi ve Kamu Yönetimi
+Siyaset Bilimi ve Kamu Yönetimi İ.Ö.
+Uluslararası İşletmecilik ve Ticaret
+Uluslararası İşletmecilik ve Ticaret  İ.Ö.
+
+İlahiyat Fakültesi
+Felsefe ve Din Bilimleri
+Felsefe ve Din Bilimleri İ.Ö.
+İlköğretim Din Kültürü ve Ahlak Bilgisi Eğitimi
+İlköğretim Din Kültürü ve Ahlak Bilgisi Eğitimi İ.Ö.
+İslam Tarihi ve Sanatları
+İslam Tarihi ve Sanatları İ.Ö.
+Temel İslam Bilimleri
+Temel İslam Bilimleri İ.Ö.
+
+İnsan ve Toplum Bilimleri Fakültesi
+Arap Dili ve Edebiyatı
+Arap Dili ve Edebiyatı İ.Ö.
+İngiliz Dili ve Edebiyatı
+İngiliz Dili ve Edebiyatı İ.Ö.
+Psikoloji
+Psikoloji İ.Ö.
+Sosyoloji
+Sosyoloji İ.Ö.
+Tarih
+Tarih İ.Ö.
+Türk Dili ve Edebiyatı
+Türk Dili ve Edebiyatı İ.Ö.
+
+Sağlık Bilimleri Fakültesi
+Beslenme ve Diyetetik
+Beslenme ve Diyetetik İ.Ö.
+Ebelik
+Ebelik İ.Ö.
+Fizyoterapi ve Rehabilitasyon
+Fizyoterapi ve Rehabilitasyon  İ.Ö.
+Hemşirelik
+Hemşirelik İ.Ö.
+Sağlık Yönetimi
+Sağlık Yönetimi İ.Ö.
+
+Sanat ve Tasarım Fakültesi
+Grafik Tasarımı
+Grafik Tasarımı İ.Ö.
+İç Mimarlık ve Çevre Tasarımı
+İç Mimarlık ve Çevre Tasarımı İ.Ö.
+Müzik
+Müzik İ.Ö.
+Resim
+Resim İ.Ö.
+
+Uygulamalı Bilimler Fakültesi
+Acil Yardım ve Afet Yönetimi
+Acil Yardım ve Afet Yönetimi İ.Ö.
+Dijital Oyun Tasarımı
+Dijital Oyun Tasarımı  İ.Ö.
+Gümrük İşletme
+Gümrük İşletme İ.Ö.
+Organik Tarım İşletmeciliği
+Organik Tarım İşletmeciliği  İ.Ö.
+Sosyal Hizmet
+Sosyal Hizmet İ.Ö.
+Yönetim Bilişim Sistemleri
+Yönetim Bilişim Sistemleri İ.Ö.
+
+Spor Bilimleri Fakültesi
+Beden Eğitimi ve Spor Yüksekokulu olarak eğitime başlayan birim, 2021 yılında Spor Bilimleri Fakültesi olmuştur.
+
+Antrenörlük Eğitimi
+Antrenörlük Eğitimi  İ.Ö.
+Beden Eğitimi ve Spor Eğitimi
+Beden Eğitimi ve Spor Eğitimi İ.Ö.
+Rekreasyon
+Rekreasyon İ.Ö.
+Spor Yöneticiliği
+Spor Yöneticiliği İ.Ö.
+
+Adalet Meslek Yüksekokulu
+Büro Hizmetleri ve Sekreterlik
+Hukuk
+Mülkiye Koruma ve Güvenlik
+
+Aydıntepe Meslek Yüksekokulu
+Çocuk Bakımı ve Gençlik Hizmetleri
+Gıda İşleme
+İnşaat
+Makine ve Metal Teknolojileri
+Mimarlık ve Şehir Planlama
+
+Demirözü Meslek Yüksekokulu
+Bitkisel ve Hayvansal Üretim
+Motorlu Araçlar ve Ulaştırma Teknolojileri
+Ulaştırma Hizmetleri
+Veterinerlik
+Yönetim ve Organizasyon
+
+Sağlık Hizmetleri Meslek Yüksekokulu
+Bitkisel ve Hayvansal Üretim
+Bitkisel ve Hayvansal Üretim İ.Ö.
+Çocuk Bakımı ve Gençlik Hizmetleri
+Çocuk Bakımı ve Gençlik Hizmetleri İ.Ö.
+Dişçilik Hizmetleri
+Dişçilik Hizmetleri İ.Ö.
+Eczane Hizmetleri
+Eczane Hizmetleri İ.Ö.
+Sağlık Bakım Hizmetleri
+Sağlık Bakım Hizmetleri  İ.Ö.
+Tıbbi Hizmetler ve Teknikleri
+Tıbbi Hizmetler ve Teknikleri  İ.Ö.
+Yönetim ve Organizasyon
+Yönetim ve Organizasyon İ.Ö.
+
+Sosyal Bilimler Meslek Yüksekokulu
+Büro Hizmetleri ve Sekreterlik
+Dış Ticaret
+Finans Bankacılık ve Sigortacılık
+Muhasebe ve Vergi
+Otel, Lokanta ve İkram Hizmetleri
+Pazarlama ve Reklamcılık
+Turizm ve Eğlence Hizmetleri
+Ulaştırma Hizmetleri
+Yönetim ve Organizasyon
+
+Teknik Bilimler Meslek Yüksekokulu
+Bilgisayar Teknolojileri
+Bilgisayar Teknolojileri İ.Ö.
+El Sanatları
+El Sanatları İ.Ö.
+Elektrik ve Enerji
+Elektrik ve Enerji İ.Ö.
+Elektrik ve Otomasyon
+Elektrik ve Otomasyon İ.Ö.
+Görsel - İşitsel Teknikler ve Medya Yapımcılığı
+Görsel - İşitsel Teknikler ve Medya Yapımcılığı İ.Ö.
+Kimya ve Kimyasal İşleme Teknolojileri
+Kimya ve Kimyasal İşleme Teknolojileri  İ.Ö.
+Mülkiyet Koruma ve Güvenlik
+Mülkiyet Koruma ve Güvenlik İ.Ö.
+Tasarım
+Tasarım İ.Ö.
+
+Araştırma Merkezleri
+Arıcılık Araştırma ve Geliştirme Uygulama ve Araştırma Merkezi
+Bayburt Tarihi ve Kültürü Uygulama ve Araştırma Merkezi
+Çocuk Eğitimi ve Gelişimi Uygulama ve Araştırma Merkezi
+Dede Korkut Uygulama ve Araştırma Merkezi
+Gıda Tarım ve Hayvancılık Uygulama ve Araştırma Merkezi
+Kadın ve Aile Sorunları Uygulama ve Araştırma Merkezi
+Merkezi Araştırma Laboratuvarı Uygulama ve Araştırma Merkezi
+Sürekli Eğitim Uygulama ve Araştırma Merkezi
+Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi
+Türkçe Öğretimi Uygulama ve Araştırma Merkezi
+Uzaktan Eğitim Araştırma Merkezi
+
+Rektörler
+Prof. Dr. Murat Mollamahmutoğlu (2008-2012)
+Prof. Dr. Gökhan Budak (2012-2013)
+Prof. Dr. Selçuk Coşkun (2013-2021)
+Prof. Dr. Mutlu Türkmen (2021-)
+
+Dış İlişkileri
+Kafkasya Üniversiteler Birliği'nin üyesidir.
+
+Kaynakça
+Dış bağlantılar
+Resmî site

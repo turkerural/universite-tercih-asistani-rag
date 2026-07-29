@@ -1,0 +1,33 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Veritabanı (embed_ve_kaydet.py ile yeniden üretilebilir)
+universite_asistani.db
+
+# Veri çekme scriptleri (repo dışında tutuluyor)
+vericekme.py
+vericekmeuniversite.py
+yok_atlas.py
+universiteler.csv
+
+# Test / geçici scriptler
+test.py
+asd.py
+
+# Log dosyaları
+sorgu_loglari.jsonl
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db

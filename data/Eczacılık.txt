@@ -1,0 +1,73 @@
+Eczacılık; hastalık teşhisi, önlenmesi, tedavi edilmesi ve semptomların azaltılmasında kullanılan her türlü madde ve ilacın; keşfi, üretimi, geliştirilmesi, imha edilmesi, güvenli ve etkin kullanımı ve kontrolü ile ilgilenen, tıp bilimini kimya ile ilişkilendiren klinik sağlık bilimidir. Eczacılığın uygulanması; ilaçlar ve ilaçların etki mekanizmaları, yan etkileri, etkileşimleri, vücuttaki hareketleri ve toksisitesi konularında üst düzey bilgi sahibi olmayı gerektirir. Aynı zamanda tedavi süreçlerinin ve patolojik süreçlerin anlaşılması konularında da yetkinlik gerektirir. Klinik eczacılık gibi eczacılığın bazı uzmanlık dalları da, tıbbi verilerin ve laboratuvar verilerinin değerlendirilmesi hakkında bilgi sahibi olmak gibi başka nitelikler gerektirir.
+Eczane uygulamasının kapsamı, ilaçların bir araya getirilmesi ve dağıtılması gibi daha geleneksel rolleri ve ayrıca sağlık bakımı ile ilgili klinik hizmetler dahil, ilaçların güvenlik ve etkililik açısından gözden geçirilmesi ve ilaç bilgilerinin sağlanması gibi daha modern hizmetleri de içerir. Bu nedenle eczacılar, ilaçla tedavi ve hastaların yararına ilaç kullanımının optimize edilmesi konularında birincil sağlık uzmanlarıdır.
+Eczacıların, bitkisel veya kimyasal kaynaklı içeriklerin araştırılması konularında yaptıkları çalışmalar modern kimya ve farmakoloji bilimlerinin temelini oluşturur.
+
+Bilim dalları
+Eczacılık, tam anlamıyla temel veya biyomedikal bir bilim dalı değildir. Farmasötik kimya, farmakoloji, organik kimya ve biyokimyayı birleştiren farklı, sentetik bir kimya dalıdır. Farmakoloji, tam olarak başlı başına bir eczacılık bilim dalı olmamakla birlikte eczacılıktan çokça yararlanır. Eczacılık alanında son zamanlarda yeni bilim dalları da ortaya çıkmıştır: Farmakogenomik, hastaların klinik yanıtlarını, alerjilerini ve ilaçların metabolizmasını etkileyen genetik bağlantılı varyantların incelenmesidir. Farmakoinformatik, sistematik ilaç keşfi ve ilaçların verimliliği, güvenliğiyle ilgilenir.
+
+Temel Eczacılık Bilimleri
+Analitik kimya: İlaçların analizi için elektrokimyasal, spektrofotometrik, kromatografik vb. yöntemlerin uygulanması ve geliştirilmesi
+Biyokimya: Biyokimyasal kinetik, ilaçların metabolizması, klinik biyokimya çalışmaları
+Farmasötik mikrobiyoloji: Sterilite, ilaçlarda mikrobiyal aktiviteler ve analizler, dezenfektanlar
+
+Eczacılık Meslek Bilimleri
+Farmasötik kimya: Yeni ilaç moleküllerinin kimyasal sentezi
+Farmakoloji: İlaçların insan vücuduna etkileri
+Farmasötik botanik: İlaç veren bitkilerin teşhisi ve incelenmesi
+Farmakognozi: Doğal kaynaklı yeni ilaç hammaddelerinin keşfi
+Farmasötik toksikoloji: İlaçların toksik etkileri
+Eczacılık işletmeciliği: Sosyal eczacılık ve eczacılık uygulamaları
+Klinik eczacılık: Hastanın ilaç tedavisini düzenlemek
+
+Eczacılık Teknolojisi
+Farmasötik teknoloji: İlaçların uygun yolla hastaya verilmesi için ilaç taşıyıcı sistemler geliştirilmesi
+Biyofarmasötik ve Farmakokinetik
+Kozmetoloji
+Radyofarmasi: Nükleer tıp alanında kullanılan ilaçlar
+Farmasötik biyoteknoloji: Biyoteknolojik yöntemlerle ilaç üretimi
+
+Meslek sahipleri
+Dünya Sağlık Örgütü, dünya çapında en az 2,6 milyon eczacı ve diğer eczacılık personeli olduğunu tahmin etmektedir.
+
+Eczacılar
+Eczacılar, ilaçların kaliteli kullanımı yoluyla hastalar için en uygun sağlık sonuçlarını sağlamak amacıyla çeşitli roller üstlenen, uzmanlaşmış eğitim ve öğretime sahip sağlık erbaplarıdır. Eczacılar, çalıştıkları eczanenin sahibi olarak küçük işletme sahibi de olabilirler. Eczacılar belirli bir ilacın etki şeklini, metabolizmasını ve insan vücudu üzerindeki fizyolojik etkilerini ayrıntılı olarak bildikleri için, her bir hastanın ilaç tedavisinin optimizasyonunda önemli rol oynarlar.
+Eczacılar uluslararası alanda, Uluslararası Eczacılık Federasyonu (FIP) tarafından temsil edilmektedirler. Ulusal düzeyde ise Birleşik Krallık'taki Royal Pharmaceutical Society, Pharmacy Guild of Australia (PSA), Canadian Pharmacists Association (CPhA), Indian Pharmacist Association (IPA), Pakistan Pharmacists Association (PPA), American Pharmacists Association (APhA) ve Türk Eczacıları Birliği (TEB) gibi topluluklar tarafından temsil edilmektedirler. Bazı durumlarda, temsilci kurum aynı zamanda mesleğin düzenlenmesi ve etiğinden sorumlu olan kayıt organıdır.
+Amerika Birleşik Devletleri'nde, Eczacılık Uzmanlıkları Kurulu tarafından tanınan eczacılık uygulamaları uzmanlıkları şunları içerir: kardiyovasküler, bulaşıcı hastalıklar, onkoloji, farmakoterapi, nükleer tıp, beslenme ve psikiyatri. Geriatrik Eczacılık Sertifikasyon Komisyonu, eczacıları geriatrik eczacılık uygulamaları konusunda sertifikalandırmaktadır. Amerikan Uygulamalı Toksikoloji Kurulu, eczacıları ve diğer tıp uzmanlarını uygulamalı toksikoloji konusunda onaylar. Türkiye'de ise Eczacılıkta Uzmanlık Kurulu tarafından tanınan uzmanlık dalları şunlardır: klinik eczacılık ve fitoterapi.
+
+Eczane destek personelleri
+Eczane teknisyenleri
+Eczane teknisyenleri, hastalara reçeteli ilaçları ve diğer tıbbi cihazları dağıtmak ve bunların kullanımıyla ilgili talimatlar vermek dahil olmak üzere eczane ile ilgili çeşitli işlevleri yerine getirerek eczacıların ve diğer sağlık profesyonellerinin çalışmalarını destekler. Doğru ilaçların sağlandığından ve ödemenin alındığından emin olmak için ilaç ofisleri ve sigorta şirketleri ile reçete taleplerini gözden geçirmek gibi farmasötik uygulamada idari görevleri de yerine getirebilirler. Genellikle ülkelerdeki mevzuatlar, eczane teknisyenlerinin faaliyetlerinin bir eczacı tarafından denetlenmesini gerektirir. Eczane teknisyenlerinin çoğu serbest eczanelerde çalışmaktadır. Hastane eczanelerinde eczane teknisyenleri diğer kıdemli eczane teknisyenleri tarafından yönetilebilir. Birleşik Krallık'ta, hastane eczanelerinde teknisyenlerin rolü artmış ve eczane departmanını ve eczacılık uygulamalarındaki uzmanlık alanlarını yönetme sorumluluğu onlara devredilmiştir ve bu sayede eczacılara, ilaç danışmanları olarak hastalara ve araştırmalara daha fazla zaman harcayarak uzmanlık alanlarında uzmanlaşmaları için zaman tanınmıştır. Eczane teknisyenleri, Genel Eczacılık Konseyi'ne (GPhC) kayıtlıdır. GPhC, eczacıların, eczane teknisyenlerinin ve eczane binalarının düzenleyicisidir.
+ABD'de eczane teknisyenleri görevlerini eczacıların gözetiminde gerçekleştirmektedir. Gözetim altında, çoğu ilaç verme, birleştirme ve diğer görevleri yerine getirebilmelerine rağmen, genellikle hastalara ilaçlarının doğru kullanımı konusunda danışmanlık rolünü yerine getirmelerine izin verilmez. Bazı eyaletlerde yasal olarak zorunlu eczacı-eczane teknisyeni oranı vardır.
+
+Dağıtım görevlileri
+Dağıtım görevlilerine genel olarak "distrübütör" olarak atıfta bulunulur ve yerel eczanelerde büyük ölçüde bir eczane teknisyeniyle aynı görevleri yerine getirirler. Eczacıların gözetimi altında çalışırlar ve hastalara sağlanmak üzere ilaçların hazırlanmasında (dağıtma ve etiketleme) yer alırlar.
+
+Sağlık görevlileri / İlaç sayım görevlileri
+Birleşik Krallık'ta, bu personel grubu belirli ilaçları (sadece eczane ve genel satış listesi ilaçları) tezgahtan satabilir. Sadece hastalara tedarikte görev alırlar, reçeteli ilaçlar hazırlayamazlar.
+
+Eğitim
+Ülkelerdeki eğitim mevzuatlarına göre çeşitli eğitim yöntemleri olabilir.
+
+Türkiye'de eğitim
+Türkiye'de eczacılık öğretimi 14 Mayıs 1839 tarihinde Mekteb-i Tıbbiye-i Adliye-i Şahane bünyesinde açılan Eczacı sınıfı ile başlamıştır. Günümüzde, Eczacılık fakültelerinde, 5 yıllık lisans eğitimini başarı ile tamamlayan kişiler Eczacı diploması almaya hak kazanırlar. Türkiye'de bu mesleğe mensup kişiler serbest eczacılık (eczane eczacılığı) yapabilir; ilaç endüstrisinde; AR-GE, üretim, kalite kontrol, ruhsatlandırma, pazarlama gibi birimlerde görev alabilir; hastane eczanelerinde mesul müdürlük yapabilir (hastane eczacılığı) ve ayrıca kamu kuruluşlarında ya da ecza depolarında mesleğini icra edebilir. Son yıllarda önem kazanan klinik eczacılığın, Türkiye'deki eczacılık fakültelerinde ders olarak okutulması 2000'li yıllarda başlamıştır. Eczacılık öğrenimi, Türkiye'de 1938 yılına kadar 3 yıl, 1938-2005 yılları arasında 4 yıl olarak sürdürülmüştür. 2005 yılından itibaren ise 5 yıl olarak sürdürülmektedir.
+
+Tarih
+Tıbbi maddelerin bilinen en eski derlemesi, MÖ 6. yüzyılda Sushruta'ya atfedilen bir Hint Ayurveda eseri olan Sushruta Samhita'dır. Bununla birlikte, korunan en eski metin MS 3. veya 4. yüzyıla aittir. Pek çok Sümer (MÖ 6. binyılın sonu - MÖ 2. binyılın başı) çivi yazılı kil tabletleri ilaç reçetelerini kayıt altına almıştır. Eski Mısır farmakolojik bilgisi, MÖ 1550'deki Ebers Papirüsü ve MÖ 16. yüzyıl Edwin Smith Papyrus'u gibi çeşitli papirüslerde kayıt altına alınmıştır.
+Antik Yunanistan'da, Diocles of Carystus (MÖ 4. yüzyıl) bitkilerin tıbbi özelliklerini inceleyen birkaç kişiden biriydi. Konuyla ilgili birkaç eser yazdı. Yunan hekim Pedanius Dioscorides, MS 1. yüzyılda ana dili olan Yunanca "Περί ύλης ιατρικής" adında beş ciltlik bir kitap yazmasıyla ünlüdür. Latince çeviri "De Materia Medica (Tıbbi maddelerle üzerine)", birçok Orta Çağ metninin temeli olarak kullanılmış ve İslam Altın Çağı boyunca birçok Ortadoğu bilim insanı tarafından işlenmiştir. Çin'de eczacılık, en azından MS 1. yüzyıla kadar uzanan, bilinen en eski Çin el kitabı olan Shennong Bencao Jing'e (İlahi Çiftçinin Bitki-Kökü Klasiği) dayanmaktadır. Han hanedanlığı döneminde derlenmiş ve efsanevi Shennong'a atfedilmiştir. Önceki literatür, belirli rahatsızlıklar için reçete listelerini içeriyordu, Mawangdui'de bulunan ve MÖ 168'de mühürlenmiş olan "52 Rahatsızlık İçin Tarifler" el yazması ile örneklenmiştir.
+
+Japonya'da, Asuka döneminin (538-710) ve erken Nara döneminin (710-794) sonunda, modern eczacılarınkine benzer rolleri yerine getiren erkeklere büyük saygı duyuluyordu. Eczacıların toplumdaki yeri Taihō Kodunda (701) açıkça tanımlanmış ve Yōrō Kodunda (718) yeniden belirtilmiştir. Heian öncesi İmparatorluk sarayında sıralı pozisyonlar oluşturuldu; ve bu organizasyon yapısı Meiji Restorasyonu'na (1868) kadar büyük ölçüde bozulmadan kaldı. Bu oldukça istikrarlı hiyerarşide, eczacılara - ve hatta eczacı asistanlarına - doktorlar ve akupunkturcular gibi sağlıkla ilgili alanlarda diğerlerinden üstün bir statü verildi. İmparatorluk hanesinde, eczacı, İmparatorun iki kişisel doktorunun bile üstündeydi.
+Türkiye'de Kuşadası yakınlarındaki Efes'te Arcadian Yolu'nda bir doktorun karşısında üç ayak, havan eli ve havan eli tokmağı ile bir eczane için taş tabela vardır. Efes'in varlığı, MÖ 400 yılına kadar uzanır ve dünyanın yedi harikasından biri olan Artemis Tapınağı'nın bulunduğu yerdir.
+Bağdat'ta ilk eczaneler veya ilaç dükkânları 754 yılında, İslam'ın Altın Çağı'nda Abbasi Halifeliği altında kuruldu. 9. yüzyılda bu eczaneler devlet denetimindeydi.
+
+Orta Doğu'da botanik ve kimyada sağlanan ilerlemeler, Orta Çağ İslamında tıbbı, büyük ölçüde farmakolojiyi geliştirmeye yöneltti. Örneğin Ebû Bekir Muhammed bin Zekeriyyâ er-Râzî (865–915), kimyasal bileşiklerin tıbbi kullanımları konusunda araştırmalar yaptı. Ebu'l Kasım El-Zehravi (936-1013) süblimasyon ve damıtma yoluyla ilaçların hazırlanmasına öncülük etti. "Liber servitoris" eseri okuyucuya tarifler sağladığından ve daha sonra genel olarak kullanılan karmaşık ilaçların birleştirildiği, basit ilaçların nasıl hazırlanacağını açıkladığından özellikle ilgi çekicidir. Ancak Sabur Ibn Sahl (d 869), hastalıklar için çok çeşitli ilaçlar ve çareler tanımlayan farmakopediyi başlatan ilk doktordu. Al-Biruni (973-1050), ilaçların özelliklerini detaylandırdığı, eczacıların ve ilaçların rolünü ve işlevlerini ve görevlerini özetlediği Kitab al-Saydalah (İlaçlar Kitabı) adlı farmakoloji üzerine en değerli İslami eserlerden birini yazdı. İbn Sina da en az 700 preparatın, özelliklerini, etki şekillerini ve endikasyonlarını açıkladı. Aslında The Canon of Medicine'de basit ilaçlara büyük bir cildi ayırdı. Bağdat ve Kahire'den al-Maridini ve İbnü'l-Vafid'in (1008-1074) çalışmaları da büyük etki yarattı. Peter of Abano (1250–1316), el-Maridini'nin çalışmasına De Veneris başlığı altında bir eki tercüme etti ve ekledi. Al-Muwaffaq'ın bu alandaki katkıları da öncü niteliktedir. 10. yüzyılda yaşayan, Remedies'in gerçek özelliklerinin temellerini, diğerlerinin yanı sıra, arsenik oksidi ve silisik asidi tanıttı. Sodyum karbonat ve potasyum karbonat arasında net bir ayrım yaptı ve bakır bileşiklerinin, özellikle bakır vitriolün ve ayrıca kurşun bileşiklerinin zehirli doğasına dikkat çekti. Deniz suyunun içmek için damıtılmasını da anlattı.
+Avrupa'da eczane benzeri dükkânlar 12. yüzyılda ortaya çıkmaya başladı. 1240 yılında imparator Frederic II, hekim ve eczacının mesleklerini birbirinden ayıran bir kararname çıkardı. Avrupa'da Orta Çağlardan beri faaliyet gösteren eczaneler vardır. (Hırvatistan), ilk olarak 1317'de açılan bir eczane, Fransisken manastırının içinde yer almaktadır: Avrupa'daki en eski faal eczanedir. Tallinn Belediye Binası Meydanı'nda (Estonya), en az 1422'den kalma bir eczane vardır. Puigcerdà'ya yakın bir Katalan yerleşim bölgesi olan Llívia'da bulunan Orta Çağ Esteve Eczanesi bir müzedir: binanın geçmişi 15. yüzyıla kadar uzanır ve müze 16. ve 17. yüzyıllardan kalma albarelloları, eski reçeteli kitapları ve antika ilaçları tutar.
+
+Ayrıca bakınız
+Eczane eczacılığı
+Hastane eczacılığı
+Eczane teknisyeni
+Veteriner eczacı
+Eczacılık Fakültesi
+
+
+== Kaynakça ==

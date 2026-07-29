@@ -1,0 +1,30 @@
+Yazılım mühendisliği, yazılım geliştirme ile ilgilenen mühendislik dalıdır. Yazılım mühendisliği tanımı ilk olarak 1968 yılında Friedrich L. Bauer tarafından Almanya'da gerçekleştirilen NATO toplantısında gündeme gelmiştir. Ayrıca, matematikçi ve bilgisayar bilimcisi Margaret Hamilton "yazılım mühendisliği" terimini ortaya atan kişilerden biri olarak kabul edilmektedir. Yazılım mühendisliği tanım olarak "karmaşık yazılım sistemlerinin belirli bir hedefe ve sisteme dayalı olarak ve iş bölümü yapılarak, belirli prensipler, yöntemler ve araçlar kullanılarak geliştirilmesidir."
+Yazılım mühendisliği belirli aşamalardan oluşmaktadır. Yazılım geliştirmenin yanında yazılımı işletmek de yazılım mühendisliğinin en önemli görevlerindendir. Bu alandaki güncel gelişmeler "Software Engineering Body of Knowledge" (SWEBOK) adlı belgede tarif edilmektedir.
+
+Geçmiş
+Yazılım geliştirme aşamaları
+Karmaşık yazılımları geliştirmek ve bakımını yapmak çok masraflı ve zordur. Bu yüzden, yazılımlar yazılım mühendisleri tarafından nizami olarak planlı bir proje şeklinde geliştirilmektedir. Bu nizami geliştirme planına "yazılım geliştirme süreci" (İngilizce: software development process) adı verilmektedir. Yazılım geliştirme süreci, zamanlamaya dayalı, içerik olarak bölünmüş ve görselleştirilmiş aşamalardan oluşmaktadır. Bu sayede yazılım adım adım ve planlı bir şekilde geliştirilmektedir. Bu aşamalar birbirleri ile bağlantılı olarak geliştirilmektedir.
+Başlıca yazılım geliştirme aşamaları şunlardır:
+Çekirdek aşamalar:
+
+Planlama
+Analiz
+Tasarım
+Programlama
+Test
+Destekleyici aşamalar:
+
+Talep yönetimi
+Proje yönetimi
+Kalite yönetimi
+Yapılandırma yönetimi
+Yazılım sunumu
+Belgeleme
+Ayrık yapılandırma
+
+Ayrıca bakınız
+UML
+Entity-relationship model
+
+
+== Kaynakça ==
