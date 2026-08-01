@@ -11,6 +11,12 @@ st.set_page_config(page_title="Üniversite Bölüm Asistanı", page_icon="🎓",
 if "tema" not in st.session_state:
     st.session_state.tema = "koyu"
 
+_acik_mi = st.sidebar.toggle("Açık tema", value=(st.session_state.tema == "acik"))
+_yeni_tema = "acik" if _acik_mi else "koyu"
+if _yeni_tema != st.session_state.tema:
+    st.session_state.tema = _yeni_tema
+    st.rerun()
+
 KOYU = {
     "bg_0": "#0A0A10",
     "bg_1": "#121017",
@@ -347,12 +353,6 @@ def gpu_bilgisi_al():
 
 def donanim_paneli():
     with st.sidebar:
-        acik_mi = st.toggle("Açık tema", value=(st.session_state.tema == "acik"))
-        yeni_tema = "acik" if acik_mi else "koyu"
-        if yeni_tema != st.session_state.tema:
-            st.session_state.tema = yeni_tema
-            st.rerun()
-
         st.markdown("### Donanım")
         process = psutil.Process(os.getpid())
         ram_mb = process.memory_info().rss / (1024 * 1024)
@@ -387,10 +387,10 @@ def donanim_paneli():
         st.markdown("### Örnek sorular")
         ornekler = [
             "Boğaziçi Üniversitesi Bilgisayar Mühendisliği taban puanı kaç?",
-            "İzmir'deki devlet üniversitelerinde Tıp Fakültesi hangileri?",
             "Koç Üniversitesi Bilgisayar Mühendisliği burslu mu?",
-            "Galatasaray Üniversitesi Hukuk Fakültesi'nde kaç profesör var?",
             "Bilgisayar mühendisliği nedir?",
+            "Rumeli Üniversitesi yerleşkeleri nerede?",
+            "Artvin Çoruh Üniversitesi ne zaman kuruldu?",
         ]
         for ornek in ornekler:
             if st.button(ornek, use_container_width=True, key=f"ornek_{ornek}"):
@@ -412,7 +412,6 @@ st.markdown(f"""
             <div class="stat-item"><span class="stat-num">9.000+</span><span class="stat-label">Bilgi parçası</span></div>
             <div class="stat-item"><span class="stat-num">228</span><span class="stat-label">Üniversite</span></div>
             <div class="stat-item"><span class="stat-num">2025</span><span class="stat-label">Güncel veri</span></div>
-            <div class="stat-item"><span class="stat-num">%100</span><span class="stat-label">Offline</span></div>
         </div>
         {barkod_html()}
     </div>
@@ -425,9 +424,9 @@ if "secilen_ornek" not in st.session_state:
     st.session_state.secilen_ornek = ""
 
 for gecmis_soru, sonuc in st.session_state.gecmis:
-    with st.chat_message("user", avatar="🙋"):
+    with st.chat_message("user", avatar="🧑‍🎓"):
         st.write(gecmis_soru)
-    with st.chat_message("assistant", avatar="🎓"):
+    with st.chat_message("assistant", avatar="🏛️"):
         st.write(sonuc["cevap"])
         with st.expander("Kullanılan kaynaklar"):
             for skor, kaynak, metin in sonuc["kaynaklar"]:
@@ -441,10 +440,10 @@ if soru or varsayilan_soru:
     aktif_soru = soru if soru else varsayilan_soru
     st.session_state.secilen_ornek = ""
 
-    with st.chat_message("user", avatar="🙋"):
+    with st.chat_message("user", avatar="🧑‍🎓"):
         st.write(aktif_soru)
 
-    with st.chat_message("assistant", avatar="🎓"):
+    with st.chat_message("assistant", avatar="🏛️"):
         with st.spinner("Düşünüyorum..."):
             sonuc = answer_query(aktif_soru)
         st.write(sonuc["cevap"])

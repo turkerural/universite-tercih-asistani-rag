@@ -41,8 +41,18 @@ KULLAN_RERANKING = True
 
 
 def turkce_normalize(metin):
+    """Türkçe metni karşılaştırılabilir standart bir hale getirir.
+
+    ÖNEMLİ: 'â', 'î', 'û' gibi ŞAPKALI (circumflex) sesli harfler de
+    normalize ediliyor (â->a, î->i, û->u). Aksi halde 'Pîrî Reis
+    Üniversitesi' gibi şapkalı yazılan gerçek isimler, kullanıcı
+    'Piri Reis' diye (şapkasız, günlük yazımla) sorduğunda ÖZEL İSİM
+    EŞLEŞMESİNDE (hibrit skorun %45'i!) hiç eşleşmiyordu — bu da
+    doğru chunk'ın retrieval'da bulunamamasına yol açıyordu. Bu sorun
+    sadece Piri Reis'e özel değil; 'kâğıt', 'âlim' gibi şapkalı yazılan
+    tüm kelimeleri etkileyen genel bir normalizasyon eksikliğiydi."""
     metin = metin.translate(str.maketrans({"İ": "i", "I": "ı"})).lower()
-    donusum = str.maketrans("çğıöşü", "cgiosu")
+    donusum = str.maketrans("çğıöşüâîû", "cgiosuaiu")
     return metin.translate(donusum)
 
 
@@ -209,16 +219,20 @@ def _universite_govdesi(ad_normalize):
 
 
 NORMALIZE_TO_ORIJINAL = {}
+NORMALIZE_TO_GENEL_DOSYA = {}
 
 
 def tum_universite_adlarini_getir():
     """Veritabanındaki TÜM bilinen üniversite isimlerini (normalize edilmiş)
     döner — hem yokatlas'taki 'Üniversite: X (şehir, tür)' alanlarından,
     hem de '_Üniversitesi.txt' türü genel bilgi dosyalarının adlarından.
-    Bu, program başlarken BİR KEZ çalıştırılır. Ayrıca NORMALIZE_TO_ORIJINAL
-    sözlüğünü de doldurur (normalize edilmiş isim -> DB'de geçen orijinal
-    Türkçe karakterli hali), böylece daha sonra hedef üniversite netleşince
-    veritabanında doğrudan SQL LIKE ile arayabiliriz."""
+    Bu, program başlarken BİR KEZ çalıştırılır. Ayrıca iki eşleme sözlüğünü
+    de doldurur:
+    - NORMALIZE_TO_ORIJINAL: normalize isim -> YÖK Atlas'taki orijinal hali
+    - NORMALIZE_TO_GENEL_DOSYA: normalize isim -> genel bilgi dosyasının
+      TAM dosya adı (örn. 'Aydın_Adnan_Menderes_Üniversitesi.txt')
+    Bu eşlemeler sayesinde, hedef üniversite netleşince ilgili YÖK Atlas
+    VE genel bilgi kayıtlarını doğrudan SQL ile garantiye alabiliyoruz."""
     conn = sqlite3.connect("universite_asistani.db")
     cursor = conn.cursor()
     adlar = set()
@@ -242,7 +256,9 @@ def tum_universite_adlarini_getir():
         dn = kaynak.lower()
         if "üniversite" in dn or "universite" in dn:
             okunur = kaynak.replace(".txt", "").replace("_", " ")
-            adlar.add(turkce_normalize(okunur))
+            norm = turkce_normalize(okunur)
+            adlar.add(norm)
+            NORMALIZE_TO_GENEL_DOSYA.setdefault(norm, kaynak)
 
     conn.close()
     return adlar
@@ -309,6 +325,8 @@ SAYISAL_SORU_KELIMELERI = [
 GENEL_SORU_KELIMELERI = [
     "nerede", "ne zaman", "kuruldu", "yerleşke", "kampüs", "tarihçe",
     "kim kurdu", "rektör", "kaç fakülte", "akademik birim", "kuruluş",
+    "nedir", "ne demek", "tanımı", "okutulur", "ne öğretir", "ne iş yapar",
+    "çalışabilir", "yönelebilir", "kapsar", "arasındaki fark",
 ]
 
 
@@ -326,6 +344,18 @@ def soru_tipini_belirle(soru_kucuk):
     if genel_mi and not sayisal_mi:
         return "GENEL"
     return "BELIRSIZ"
+
+
+def karma_soru_mu(soru_kucuk):
+    """'BELIRSIZ' kategorisinin İKİ farklı alt durumu var: (1) sorunun hiçbir
+    anahtar kelimeye uymadığı GERÇEKTEN belirsiz durum, (2) sorunun HEM
+    sayısal HEM genel anahtar kelime içerdiği GERÇEKTEN karma/çok parçalı
+    durum (örn. 'X nerede, ne zaman kuruldu ve taban puanı kaç?'). Bu
+    fonksiyon sadece ikinci durumu tespit eder — reranking sırasında
+    kaynak çeşitliliğini garantiye almak için kullanılır."""
+    sayisal_mi = any(k in soru_kucuk for k in SAYISAL_SORU_KELIMELERI)
+    genel_mi = any(k in soru_kucuk for k in GENEL_SORU_KELIMELERI)
+    return sayisal_mi and genel_mi
 
 
 def hedef_universiteye_ait_ek_adaylar(hedef_universite, sinir=30):
@@ -361,6 +391,36 @@ def hedef_universiteye_ait_ek_adaylar(hedef_universite, sinir=30):
     return [(1.0, kaynak, metin) for kaynak, metin in satirlar]
 
 
+def hedef_universiteye_ait_genel_adaylar(hedef_universite):
+    """Hedef üniversite netleştiğinde, o üniversitenin GENEL bilgi
+    dosyasındaki (Wikipedia tarzı, kuruluş/yerleşke/tarihçe içeren) TÜM
+    chunk'larını DOĞRUDAN veritabanından çeker.
+
+    NEDEN GEREKLİ: hedef_universiteye_ait_ek_adaylar() sadece YÖK Atlas
+    kayıtlarını garantiye alıyordu — ama 'X nerede, ne zaman kuruldu ve
+    taban puanı kaç?' gibi KARMA sorularda, genel bilgi dosyası bazen
+    embedding aramasının getirdiği ilk havuza HİÇ girmiyordu. Bu durumda
+    reranking'de ne kadar 'çeşitlilik garantisi' kursak da, paylaştıracak
+    genel bir aday olmadığı için işe yaramıyordu — context'te sadece YÖK
+    Atlas kalıyor, model de kuruluş tarihi gibi sorulmuş ama context'te
+    olmayan bilgiyi UYDURABİLİYORDU (örn. yanlış bir yıl söylemek gibi).
+    Bu fonksiyon, genel dosyayı da (YÖK Atlas gibi) SQL ile garantiye
+    alarak bu halüsinasyon riskini kökten kapatıyor."""
+    dosya_adi = NORMALIZE_TO_GENEL_DOSYA.get(hedef_universite)
+    if not dosya_adi:
+        return []
+
+    conn = sqlite3.connect("universite_asistani.db")
+    cursor = conn.cursor()
+    cursor.execute(
+        "SELECT kaynak_dosya, metin FROM chunks WHERE kaynak_dosya = ?",
+        (dosya_adi,),
+    )
+    satirlar = cursor.fetchall()
+    conn.close()
+    return [(1.0, kaynak, metin) for kaynak, metin in satirlar]
+
+
 def cross_encoder_ile_yeniden_sirala(soru, adaylar, k=5):
     """adaylar: [(hibrit_skor, kaynak, metin), ...] listesi.
     Cross-encoder ile her adayı soruyla BİRLİKTE değerlendirip yeniden sıralar."""
@@ -376,6 +436,39 @@ def cross_encoder_ile_yeniden_sirala(soru, adaylar, k=5):
     birlesik.sort(key=lambda x: x[0], reverse=True)
 
     return [(float(ns), kaynak, metin) for ns, (_, kaynak, metin) in birlesik[:k]]
+
+
+def cross_encoder_karma_sirala(soru, adaylar, k=5):
+    """Karma (çok parçalı) sorularda kullanılan ÇEŞİTLİLİK GARANTİLİ
+    reranking. NEDEN GEREKLİ: Normal reranking, 5 chunk'lık 'en iyi'
+    listesini BÜTÜNSEL olarak seçiyor — bu da 'X nerede, ne zaman kuruldu
+    ve taban puanı kaç?' gibi bir soruda, 'taban puan' kısmına çok güçlü
+    uyan TEK bir YÖK Atlas chunk'ının tüm üst sıraları kapayıp, sorunun
+    'nerede/ne zaman' kısmına cevap verecek genel bilgi chunk'ına hiç yer
+    bırakmamasına yol açabiliyordu (context'te sadece 1 kaynak kalıyordu).
+
+    Çözüm: YÖK Atlas ve genel bilgi dosyalarını AYRI AYRI sıralayıp,
+    ikisinden de garantili pay ayırıyoruz — böylece hiçbiri diğerini
+    tamamen dışarıda bırakamaz."""
+    yokatlas = [a for a in adaylar if a[1] == "yokatlas_tum_bolumler_2025.txt"]
+    genel = [a for a in adaylar if a[1] != "yokatlas_tum_bolumler_2025.txt"]
+
+    yari = max(1, k // 2)
+    yokatlas_sirali = cross_encoder_ile_yeniden_sirala(soru, yokatlas, yari)
+    genel_sirali = cross_encoder_ile_yeniden_sirala(soru, genel, k - len(yokatlas_sirali))
+
+    birlesik = yokatlas_sirali + genel_sirali
+    if len(birlesik) < k:
+        kalan = k - len(birlesik)
+        if len(yokatlas) > len(yokatlas_sirali):
+            ek = cross_encoder_ile_yeniden_sirala(soru, yokatlas, len(yokatlas_sirali) + kalan)[len(yokatlas_sirali):]
+            birlesik += ek
+        elif len(genel) > len(genel_sirali):
+            ek = cross_encoder_ile_yeniden_sirala(soru, genel, len(genel_sirali) + kalan)[len(genel_sirali):]
+            birlesik += ek
+
+    birlesik.sort(key=lambda x: x[0], reverse=True)
+    return birlesik[:k]
 
 
 def get_top_chunks_eski(soru, k=15):
@@ -460,15 +553,19 @@ def get_top_chunks(soru, k=5):
 
     soru_kucuk_routing = turkce_kucuk_harf(soru)
     soru_tipi = soru_tipini_belirle(soru_kucuk_routing)
-
-    if soru_tipi == "GENEL":
-        adaylar = [
-            (skor, kaynak, metin) for skor, kaynak, metin in adaylar
-            if kaynak != "yokatlas_tum_bolumler_2025.txt"
-        ]
+    karma = karma_soru_mu(soru_kucuk_routing)
 
     soru_genisletilmis_erken = kisaltma_genislet(soru)
     hedef_universite_erken = hedef_universite_coz(soru_genisletilmis_erken, TUM_UNIVERSITE_ADLARI)
+
+    if soru_tipi == "GENEL":
+        genel_adaylar = [
+            (skor, kaynak, metin) for skor, kaynak, metin in adaylar
+            if kaynak != "yokatlas_tum_bolumler_2025.txt"
+        ]
+        if genel_adaylar:
+            adaylar = genel_adaylar
+
     if hedef_universite_erken and soru_tipi != "GENEL":
         ek_sinir = 15 if soru_tipi == "SAYISAL" else 5
         ek_adaylar = hedef_universiteye_ait_ek_adaylar(hedef_universite_erken, sinir=ek_sinir)
@@ -478,9 +575,25 @@ def get_top_chunks(soru, k=5):
                 adaylar.append((skor, kaynak, metin))
                 mevcut_metinler.add(metin)
 
+    # Hedef üniversite netse VE soru genel bilgi de istiyorsa (GENEL ya da
+    # karma), genel bilgi dosyasının TÜM chunk'larını da ek olarak
+    # garantiye al — embedding aramasının bu dosyayı hiç bulamadığı
+    # durumlarda (bkz. Piri Reis / Aydın Adnan Menderes örnekleri) bu,
+    # context'te genel bilginin (kuruluş yılı, yerleşke vb.) tamamen
+    # eksik kalıp modelin bu kısmı UYDURMASINI önlüyor.
+    if hedef_universite_erken and (soru_tipi == "GENEL" or karma):
+        genel_ek_adaylar = hedef_universiteye_ait_genel_adaylar(hedef_universite_erken)
+        mevcut_metinler = {metin for _, _, metin in adaylar}
+        for skor, kaynak, metin in genel_ek_adaylar:
+            if metin not in mevcut_metinler:
+                adaylar.append((skor, kaynak, metin))
+                mevcut_metinler.add(metin)
+
     adaylar = program_adina_gore_filtrele(soru, adaylar)
 
     if KULLAN_RERANKING:
+        if karma:
+            return cross_encoder_karma_sirala(soru, adaylar, k)
         return cross_encoder_ile_yeniden_sirala(soru, adaylar, k)
     else:
         return adaylar[:k]

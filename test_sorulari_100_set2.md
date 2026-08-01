@@ -54,7 +54,7 @@ Bu, önceki 100 soruluk setten **farklı** üniversite ve bölüm kombinasyonlar
 42. İbn Haldun Üniversitesi devlet üniversitesi mi, vakıf üniversitesi mi?
 43. Bandırma Onyedi Eylül Üniversitesi hangi ilde yer alıyor?
 44. Toros Üniversitesi'nin yerleşkesi nerede?
-45. Kırşehir Ahi Evran Üniversitesi hangi ile bağlı?
+45. Kırşehir Ahi Evran Üniversitesi hangi şehire bağlı?
 46. İstanbul Esenyurt Üniversitesi'nin yerleşkeleri nerede?
 47. Sivas Cumhuriyet Üniversitesi'nin kaç kampüsü var?
 48. Karadeniz Teknik Üniversitesi hangi yıl kurulmuştur?
